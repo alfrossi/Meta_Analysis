@@ -1,0 +1,1301 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT S
+AU Woodcock, A
+   Osmond, J
+   Holliday, N
+AF Woodcock, Andree
+   Osmond, Jane
+   Holliday, Nikki
+BE Woodcock, A
+   Moody, L
+   McDonagh, D
+   Jain, A
+   Jain, LC
+TI The Development of a Feature Matrix for the Design of Assistive
+   Technology Products for Young Older People
+SO DESIGN OF ASSISTIVE TECHNOLOGY FOR AGEING POPULATIONS
+SE Intelligent Systems Reference Library
+AB This chapter describes findings from the COnsumer MODels for Assisted Living (COMODAL) project, which aimed to develop a consumer market for Assistive Technology Products (ATPs) for Young Older People (YOPs: 50-70-year olds). The project used mixed methods to explore various aspects of the ATP consumer market, together with a feature matrix for the design of ATPs, guidance on user needs and expectations from an ATP consumer market, and suggested business models. The methodologies used included literature and product reviews, market analyses, interviews, focus groups, and co-creation workshops. The triangulated findings found that currently there are significantly high rates of non-use and abandonment of ATPs, due to numerous factors including poor aesthetic appeal and ease of use, stigma, and concerns about loss of face to face care. YOPs have an appetite for the use (and private purchase) of products and services to support their independence and health, but such products must focus on the whole person and their higher-level needs, wishes and aspirations, not just a particular disability-something which the product analysis found lacking in many existing products. One of the ways the project addressed this was through the development of a product matrix to support designers and businesses to more widely consider the evolving needs of YOPs with regards ATPs. The business models provided further guidance on the implementation of such products into the consumer market. The results will be of use to businesses wishing to grow or diversify into the ATP consumer market-a key opportunity at a time when publicly funded provision of such technologies is decreasing. Ultimately, ATPs must not only assist independent living, but should also support enhanced quality of life whilst meeting higher level needs and desires.
+SN 1868-4394
+EI 1868-4408
+BN 978-3-030-26292-1; 978-3-030-26291-4
+PY 2020
+VL 167
+BP 81
+EP 103
+DI 10.1007/978-3-030-26292-1_5
+D2 10.1007/978-3-030-26292-1
+UT WOS:000568970900006
+ER
+
+PT B
+AU Meena, RS
+   Kumar, S
+   Yadav, GS
+AF Meena, Ram Swaroop
+   Kumar, Sandeep
+   Yadav, Gulab Singh
+BE Meena, RS
+TI Soil Carbon Sequestration in Crop Production
+SO NUTRIENT DYNAMICS FOR SUSTAINABLE CROP PRODUCTION
+AB The carbon (C) sequestration potential of global soils are estimated between 0.4 and 1.2 Gt C year(-1) or 5-15 % (1Pg = 1 x 10(5) g). The C emission is rising rapidly by 2.3% every year. If the emissions continue to rise, warming could reach the levels that are dangerous for the society, but it looks like global emissions might now be taking a different turn in the last few years. As we know the sustainability of agroecosystem largely depends on its C footprint as the soil organic carbon (SOC) stock; it is an indicator of soil health and quality and plays a key role to soil sustainability. At the same time, continuing unsustainable agricultural approaches under intensive farming have depleted most of the SOC pool of global agricultural lands. Still, the terrestrial ecosystem has enormous potential to store the atmospheric C for a considerable period of time. Therefore, promoting the cultivation of crops sustainably offers multiple advantages, e.g. augmenting crop and soil productivity, adapting climate change resilience, and high turnover of above- and below-ground biomass into the soil system, thus sequestering atmospheric C and dropping concentration of GHGs from the atmosphere. The continuous vegetation on soil surface ensures good soil health and soil C concentration at variable soil depth as per the specific crop. The C sequestration potential and the amount of organic C returned by crop plants rest on specific plant species, depending on the nature of growth, root morphology and physiology, leaf morphology, climatic conditions, soil texture, structure and aggregation, prevailing cropping system, and agronomic interventions during crop growth period. The above-ground plant biomass, e.g. plant leaves, branches, stem, foliage, fruits, wood, litter-fall, etc., and below-ground plant biomass, e.g. dead roots, released substances from root exudates, rhizospheric deposition, and plant-promoted microbial biomass C, directly contribute to the SOC buildup. Sustainable crop management practice that ensures the increased nitrogen (N) availability accelerates the C input in the soil ecosystem. Farming practices that improve nitrogen and water use efficiency (NUE and WUE) reduce soil disturbance and erosion, increase plant biomass, and together affect N availability and SOC stock. Conservation tillage together with surface residue retention and legume-based sensible crop rotation reduces soil disturbances, surface runoff, and erosion; increases N availability and SOC sequestration; increases soil sustainability by mixed cropping, intercropping, crop rotation, cover cropping, multiple cropping, and relay cropping; and generates and adds greater amount of qualitative plant biomass into the soil. The N addition, especially from bulky organic manure, green manures, leguminous crops, cover crops, biological N-fixing microbes, and farm and kitchen waste materials, is essential for agricultural productivity and SOC sequestration. The C sequestration benefits from addition of chemical nitrogenous fertilizers are compensated by the release of carbon dioxide (CO2) and nitrous oxide (N2O) during manufacturing, transportation, storage, and application of fertilizers. Therefore, approaching integrated nutrient management (INM) encompassing manures and other C-rich resources sustains soil health and increases N availability and SOC sequestration.
+   Moreover, location-specific scientific research is needed to point out the best management practices that enhance NUE, maintain/improve soil health, boost crop production and SOC sequestration, and minimize greenhouse gas (GHG) release in the biosphere. In the view of above, in this chapter, quantifying the C sequestration potential with higher degree of confidence is required in agriculture management. The present book chapter is critically analyses the C sequestration potential of different soil and crop management practices under diverse ecological conditions for sustainable crop productivity.
+OI MEENA, DR RAM SWAROOP/0000-0002-7119-8646
+BN 978-981-13-8660-2; 978-981-13-8659-6
+PY 2020
+BP 1
+EP 39
+DI 10.1007/978-981-13-8660-2_1
+D2 10.1007/978-981-13-8660-2
+UT WOS:000554915100001
+ER
+
+PT S
+AU Suryadi, Y
+   Susilowati, DN
+   Fauziah, F
+AF Suryadi, Yadi
+   Susilowati, Dwi Ningsih
+   Fauziah, Fani
+BE Sayyed, RZ
+TI Management of Plant Diseases by PGPR-Mediated Induced Resistance with
+   Special Reference to Tea and Rice Crops
+SO PLANT GROWTH PROMOTING RHIZOBACTERIA FOR SUSTAINABLE STRESS MANAGEMENT,
+   VOL 2: RHIZOBACTERIA IN BIOTIC STRESS MANAGEMENT
+SE Microorganisms for Sustainability
+AB Among the biotic stresses, plant pathogens can reduce yield crop which affected potential loss to crop productivity. Plant growth-promoting rhizobacteria (PGPR) can help plants to be resistant against biotic stress via direct antagonism to pathogens or by induction of systemic resistance to pathogens. The presence of high levels of nutrients exuded from various roots of most plants can support bacterial growth and metabolism as well as maintain health of the plant in the growth process. PGPR promote plant growth due to their abilities in phytohormone production, nitrogen fixation, and phosphorus solubilization; produce several substances which are related to pathogen control, i.e., exhibiting competition with plant pathogens, synthesis of antibiotics, antifungal metabolites and defense enzymes, and secretion of iron-chelating siderophores; and trigger induced systemic resistance (ISR) via methyl jasmonate and methyl salicylate in plants. The ISR resembles pathogen-induced systemic acquired resistance (SAR) through the salicylic acid-dependent SAR pathway under conditions where the inducing bacteria and the challenging pathogen remain spatially separated. The use of PGPR combinations of different mechanisms of action, i.e., induced resistance and antagonistic PGPR, might be useful in formulating inoculants leading to a more efficient use for biological control strategies to improve crop productivity. Many PGPR have been isolated from the tissues of many plants, and various species of bacteria, i.e., Azotobacter, Azospirillum, Alcaligenes, Arthrobacter, Bacillus, Burkholderia, Enterobacter, Klebsiella, Pseudomonas, and Serratia, have been reported to control several diseases and enhance plant growth. PGPR belonging to the genera Pseudomonas and Bacillus are also well known for their antagonistic effects and their ability to trigger ISR. An increasingly successful study to reduce disease severity is the use of bacteria, namely, Bacillus subtilis, P. fluorescens, Serratia, and the fungus Trichoderma. Tea and rice plants are cultivated in Indonesia predominantly in Java and Sumatra islands. Major constraints of cultivation include low fertility of soils, poor input management, low germination, and high susceptibility to the diseases. The strategies employed by PGPR provide promising approaches to alter agricultural crops and plantation practices toward sustainable environmental development. Research has been conducted to know the effect of PGPR on tea plant growth that can work optimally as a biological fertilizer and plant-induced resistance to suppress blister blight (Exobasidium vexans Massee), a major disease in tea plantation that can decrease yield loss up to 50%. Individual PGPR strains for in vitro broad-spectrum pathogen suppression and production of several physiological/biochemical activities related to plant growth promotion have been screened. Numerous bacterial isolates have been found to function both as biofertilizers and biological control agents, namely, Chryseobacterium sp. AzII-1, Acinetobacter sp., Alcaligenes sp. E5, Bacillus E65, and Burkholderia E76. Study about synergism among bacteria has been carried out in the laboratory test using four combinations, i.e., (a) Chryseobacterium sp. AzII-1 + Acinetobacter sp., (b) Chryseobacterium sp. AzII-1 + Alcaligenes sp. E5, (c) Chryseobacterium sp. AzII-1 + Bacillus E65, and (d) Chryseobacterium sp. AzII-1 + Burkholderia E76. All bacterial combinations had a synergistic effect.
+   It was shown that the bacterial population was not significantly different with the average of the total bacterial population (4.62 x 10(8) CFU/ml). The effect of bacterial combinations to blister blight and plant growth under a tea nursery trial revealed that combination of Chryseobacterium sp. AzII-1 75% + Alcaligenes sp. E5 25% could increase the growth of tea plant and suppress the intensity of blister blight up to 1.27%. The disease intensity of blister blight decreased in all treatments under field trial, while the Acinetobacter sp. treatment in tea shoots was 17.26% higher than the control. PGPR have also been isolated from cultivated rice. Serratia SKM, Burkholderia E76, and Bacillus E65 have the potential for controlling rice diseases and induce plant growth promotion. Under in vitro antagonistic assay, it was shown that these isolates could suppress effectively the growth of rice pathogens Xanthomonas oryzae pv. oryzae, the causal agent of bacterial blight (BB). Kaolin formulation of these three isolates was evaluated as a foliar application on rice. PGPR application under experimental plots resulted in enhancement of rice growth and yield, with the yield increment on cv. Sintanur being 12.8 percent higher compared with control (cv. Ciherang). Based on PGPR application technology which is demonstrated in farmers' plots, the severity of BB disease was reduced to 76.8 percent compared with the untreated plot. The farmers were convinced with the beneficial effects of PGPR on both plant growth and yield and reduction of BB disease incidence. PGPR technologies have the potential to reduce agrochemical application. They can also be exploited as low in input and environmentally friendly for sustainable plant management. PGPR is highly diverse, and in this review, we focus on PGPR in plant growth promotion, as well as understanding the role of PGPR in crop protection.
+SN 2512-1901
+EI 2512-1898
+BN 978-981-13-6986-5; 978-981-13-6985-8
+PY 2019
+VL 13
+BP 65
+EP 110
+DI 10.1007/978-981-13-6986-5_4
+D2 10.1007/978-981-13-6986-5
+UT WOS:000562971600006
+ER
+
+PT S
+AU Keyes, KM
+   Allel, K
+   Staudinger, UM
+   Ornstein, KA
+   Calvo, E
+AF Keyes, Katherine M.
+   Allel, Kasim
+   Staudinger, Ursula M.
+   Ornstein, Katherine A.
+   Calvo, Esteban
+BE Deak, T
+   Savage, LM
+TI Alcohol consumption predicts incidence of depressive episodes across 10
+   years among older adults in 19 countries
+SO LATE AGING ASSOCIATED CHANGES IN ALCOHOL SENSITIVITY, NEUROBEHAVIORAL
+   FUNCTION, AND NEUROINFLAMMATION
+SE International Review of Neurobiology
+AB Alcohol consumption is increasing in many countries, and excessive alcohol consumption is particularly increasing among older adults. Excessive alcohol consumption causes morbidity and mortality, especially among older adults, including an increased risk of depressive episodes. We review the mechanisms through which alcohol consumption may affect depression, and argue that the effects of alcohol consumption on depressive episodes among older adults are understudied. We harmonized data among older adults (>= 50 years) on alcohol consumption, depressive episodes, and an array of risk factors across 10 years and 19 countries (N = 57,276). Alcohol consumption was categorized as current or long-term abstainer, occasional, moderate and heavy drinking at an average of 2.3 follow-up time points. Depressive episodes were measured through the CES-D or EURO-D. Multi-level Cox proportional frailty models in which the random effect has a multiplicative relationship to hazard were estimated with controls for co-occurring medical conditions, health behaviors, and demographics. Long-term alcohol abstainers had a higher hazard of depressive episodes (HR = 1.14, 95% C.I. 1.08-1.21), as did those reporting occasional (HR = 1.16, 95% C.I. 1.10-1.21) and heavy drinking (HR = 1.22, 95% C.I. 1.13-1.30), compared with moderate drinking. Hazard ratios were attenuated in frailty models; heavy drinking, however, remained robustly associated in a random-effects model with a frailty component (HR = 1.16, 95% C.I. 1.11-1.21). Interactions were observed by gender and smoking status: long-term abstainers, women's, and smokers' (HR for interaction, 1.04, 95% C.I. 1.00-1.07) hazards of depressive episodes increased more than what would be expected based on their multiplicative effects, when compared to moderate drinking, non-smoking men. Excessive alcohol consumption among older adults is a concern not only for physical, but also for mental health. Physician efforts to screen older adults for excessive alcohol use is critical for mental health to remain strong in aging populations.
+RI ; Allel, Kasim/C-3435-2017
+OI Calvo, Esteban/0000-0002-2382-5553; Allel, Kasim/0000-0002-2144-7181
+SN 0074-7742
+BN 978-0-12-817531-6; 978-0-12-817530-9
+PY 2019
+VL 148
+BP 1
+EP 38
+DI 10.1016/bs.irn.2019.09.001
+UT WOS:000539031900002
+PM 31733662
+ER
+
+PT B
+AU Reyes-Alvarado, LC
+AF Carlos Reyes-Alvarado, Luis
+BA ReyesAlvarado, LC
+BF ReyesAlvarado, LC
+TI Forecasting the effect of feast and famine conditions on biological
+   sulphate reduction in an anaerobic inverse fluidized bed reactor using
+   artificial neural networks
+SO OPTIMIZATION OF THE ELECTRON DONOR SUPPLY TO SULPHATE REDUCING
+   BIOREACTORS TREATING INORGANIC WASTEWATER
+AB The longevity and robustness of bioreactors used for wastewater treatment is determined by the activity of the microorganisms under steady and transient loading conditions. Two identical continuously operated inverse fluidized bed bioreactors (IFB), IFB R1 and IFB R2, were tested for sulphate removal under the same operating conditions for 140 d (periods I-IV). Later, IFB R1 was used as the control reactor (period V), while IFB R2 was operated under feast (period V-A) and famine (period V-B) feeding conditions for 66 d. The sulphate removal efficiency was comparable in both IFB, < 20% in period I and similar to 70% during periods II, III and IV. The robustness of the IFB was evident when the sulphate removal efficiency remained comparable during the feast period (67 +/- 15%) applied to IFB R2 compared to continuous feeding periods (period IV (71 +/- 4%) for IFB R2 and period V (61 +/- 15%) for IFB R1). The IFB performance was modelled using a three-layered artificial neural networks (ANN) model (5-11-3) and a sensitivity analysis, the sulphate removal was found to be dependent on the COD: sulphate ratio. Besides, the robustness, resilience and adaptation time of the IFB were affected by the degree of mixing and the hydraulic retention time.
+RI Lens, Piet Nicolaas Luc N.L./B-7245-2018; Reyes-Alvarado, Luis
+   Carlos/AAD-8361-2019; Rene, Eldon R./L-5188-2013
+OI Lens, Piet Nicolaas Luc N.L./0000-0002-5825-878X; Reyes-Alvarado, Luis
+   Carlos/0000-0001-7549-6213; Rene, Eldon R./0000-0001-5974-2808
+BN 978-1-138-34331-3
+PY 2018
+BP 51
+EP 87
+DI 10.1016/j.procbio.2017.01.021
+D2 10.1201/9780429439209
+UT WOS:000465334400003
+ER
+
+PT S
+AU Elmaghrabi, AM
+   Rogers, HJ
+   Francis, D
+   Ochatt, S
+AF Elmaghrabi, Adel M.
+   Rogers, Hilary J.
+   Francis, Dennis
+   Ochatt, Sergio
+BE Canas, LA
+   Beltran, JP
+TI Toward Unravelling the Genetic Determinism of the Acquisition of Salt
+   and Osmotic Stress Tolerance Through In Vitro Selection in Medicago
+   truncatula
+SO FUNCTIONAL GENOMICS IN MEDICAGO TRUNCATULA: METHODS AND PROTOCOLS
+SE Methods in Molecular Biology
+AB Changes in global climate and the nonstop increase in demographic pressure have provoked a stronger demand for agronomic resources at a time where land suitable for agriculture is becoming a rare commodity. They have also generated a number of abiotic stresses which exacerbate effects of diseases and pests and result in physiological and metabolic disorders that ultimately impact on yield when and where it is most needed. Therefore, a major scientific and agronomic challenge today is that of understanding and countering the impact of stress on yield. In this respect, in vitro biotechnology would be an efficient and feasible breeding alternative, particularly now that the genetic and genomic tools needed to unravel the mechanisms underlying the acquisition of tolerance to stress have become available. Legumes in general play a central role in a sustainable agriculture due to their capacity to symbiotically fix the atmospheric nitrogen, thereby reducing the need for fertilizers. They also produce grains that are rich in protein and thus are important as food and feed. However, they also suffer from abiotic stresses in general and osmotic stress and salinity in particular. This chapter provides a detailed overview of the methods employed for in vitro selection in the model legume Medicago truncatula for the generation of novel germplasm capable of resisting NaCl-and PEG-induced osmotic stress. We also address the understanding of the genetic determinism in the acquisition of stress resistance, which differs between NaCl and PEG. Thus, the expression of genes linked to growth (WEE1), in vitro embryogenesis (SERK), salt tolerance (SOS1) proline synthesis (P5CS), and ploidy level and cell cycle (CCS52 and WEE1) was upregulated under NaCl stress, while under PEG treatment the expression of MtWEE1 and MtCCS52 was significantly increased, but no significant differences were observed in the expression of genes MtSERK1 and MtP5CS, and MtSOS1 was down-regulated. A number of morphological and physiological traits relevant to the acquisition of stress resistance were also assessed, and methods used to do so are also detailed.
+RI OCHATT, Sergio/AAF-8120-2019; Rogers, Hilary/A-4516-2010
+OI OCHATT, Sergio/0000-0002-2887-4389; Rogers, Hilary/0000-0003-3830-5857
+SN 1064-3745
+EI 1940-6029
+BN 978-1-4939-8633-0; 978-1-4939-8632-3
+PY 2018
+VL 1822
+BP 291
+EP 314
+DI 10.1007/978-1-4939-8633-0_19
+D2 10.1007/978-1-4939-8633-0
+UT WOS:000453892000020
+PM 30043311
+ER
+
+PT S
+AU Petrunoff, N
+   Crane, M
+   Rissel, C
+AF Petrunoff, Nicholas
+   Crane, Melanie
+   Rissel, Chris
+BE Friman, M
+   Ettema, D
+   Olsson, LE
+TI A Case Study Exploring Associations of Quality of Life Measures with Car
+   and Active Transport Commute Modes in Sydney
+SO QUALITY OF LIFE AND DAILY TRAVEL
+SE Applying Quality of Life Research-Best Practices
+AB Several dimensions of commuting influence perceived stress, such as impedance (a measure of distance and time which is impacted by the number of transport nodes), and control over and predictability of commuting. Research into commuting mode and stress has generated mixed results. The case study in this chapter used baseline survey data from a 3-year workplace travel plan intervention. Workplace travel plans aim to promote active and sustainable forms of transport and reduce driving to work. An on-line cross-sectional survey of staff travel behaviour was conducted in September 2011 at Liverpool Hospital in Sydney, Australia. A total of 675 respondents provided data on the items of interest for this analysis (travel behaviour, self-reported stress, occupation type, demographics). Approximately one in six respondents (15%) actively commuted to work (walking 4%, cycling 2% or using public transport 9%). There was a large (15%) difference between active commuters' (10.1%) and drivers' (25%) perceptions that the commute to work was more stressful than the rest of their day that remained statistically significant (adjusted odds ratio 0.35, 95% confidence interval 0.17-0.73) after adjusting for factors including gender, age, physical activity levels and occupational type (clinical vs non-clinical). These findings support international research which has shown that active travel to work may be less stressful than car commuting.
+RI Rissel, Chris/AAH-2423-2019
+OI Petrunoff, Nick/0000-0001-9464-2677
+SN 2213-994X
+EI 2213-9958
+BN 978-3-319-76623-2; 978-3-319-76622-5
+PY 2018
+BP 183
+EP 198
+DI 10.1007/978-3-319-76623-2_10
+D2 10.1007/978-3-319-76623-2
+UT WOS:000448913500011
+ER
+
+PT S
+AU Mallick, D
+   Buragohain, B
+   Mahanta, P
+   Moholkar, VS
+AF Mallick, Debarshi
+   Buragohain, Buljit
+   Mahanta, Pinakeswar
+   Moholkar, Vijayanand S.
+BE De, S
+   Agarwal, AK
+   Moholkar, VS
+   Thallada, B
+TI Gasification of Mixed Biomass: Analysis Using Equilibrium,
+   Semi-equilibrium, and Kinetic Models
+SO COAL AND BIOMASS GASIFICATION: RECENT ADVANCES AND FUTURE CHALLENGES
+SE Energy Environment and Sustainability
+AB Biomass gasifiers with capacities exceeding 1 MW have large biomass consumption, and mixture of biomasses need to be used as feedstock in these gasifiers. In this chapter, we have presented a review of our studies in gasification of biomass blends using approaches of non-stoichiometric equilibrium, semi-equilibrium, and kinetic models. Initially, gasification of biomass mixtures has been assessed using thermodynamic equilibrium and semi-equilibrium (with limited carbon conversion) model employing Gibbs energy minimization. Influence of operating parameters such as equivalence ratio, temperature of gasification, and composition of the biomass mixture has been evaluated using two criteria, viz net yield and LHV of the producer gas. Interestingly, optimum operating conditions for all biomass mixtures have been established as equivalence ratio similar to 0.3 and gasification temperature similar to 800 degrees C. The kinetic model analysis of gasification of biomass based on a circulating fluidized bed gasifier. A series of chemical reactions was considered for obtaining complete mass balance. Although the profiles of molar composition, net yield and LHV of the producer gas predicted by kinetic model matched with equilibrium models qualitatively, significant quantitative difference was evident. The processes of char gasification and tar oxidation have slow kinetics that adversely affects the carbon conversion in the riser of the circulating fluidized bed gasifier.
+RI Mallick, Debarshi/ABD-4032-2020
+OI Mallick, Debarshi/0000-0002-9591-2576
+SN 2522-8366
+EI 2522-8374
+BN 978-981-10-7335-9; 978-981-10-7334-2
+PY 2018
+BP 223
+EP 241
+DI 10.1007/978-981-10-7335-9_9
+D2 10.1007/978-981-10-7335-9
+UT WOS:000450041200010
+ER
+
+PT S
+AU Mahapatra, DM
+   Chanakya, HN
+   Joshi, NV
+   Ramachandra, TV
+   Murthy, GS
+AF Mahapatra, Durga Madhab
+   Chanakya, H. N.
+   Joshi, N. V.
+   Ramachandra, T. V.
+   Murthy, G. S.
+BE Panpatte, DG
+   Jhala, YK
+   Shelat, HN
+   Vyas, RV
+TI Algae-Based Biofertilizers: A Biorefinery Approach
+SO MICROORGANISMS FOR GREEN REVOLUTION, VOL 2 : MICROBES FOR SUSTAINABLE
+   AGRO-ECOSYSTEM
+SE Microorganisms for Sustainability
+AB Current perturbations in the agrarian economies and the agro-environment have sparked concerns regarding the future food security and a dire need for sustainable agricultural practices without jeopardizing the environmental assets. One such major requirement for an agrarian society is a resilient nutrient source for agriculture. In this regard algal cells that are cosmopolitan in nature with unparalleled characteristics of high biomass productivity, high photosynthetic efficiency and ability to grow in barren and non-arable lands are attractive. They grow in a wide range of water systems especially the ones that are highly enriched with salts (saline) and nutrients (eutrophied) and in numerous contaminated and polluted systems as urban wastewaters. Apart from these primary benefits, the algal route also offers important byproducts that can be further used as value-added products in industries and as C neutral commodities that help to evade climate change by negating greenhouse gas emissions. The most important aspects are its efficiency as a biofertilizer that dynamically improves the soil health and its physicochemical behaviour. The wastewater-grown algal microflora is exceptional in imparting the appropriate mineral nutrient mix with essential vitamins and plant growth promoters together with increasing the water holding capacity of the soil. Algal communities from wastewaters with optimal NPK ratio and secondary nutrients are therefore model biofertilizers. They can be substitutes of the conventional chemical fertilizers due to its ubiquity, enhanced metabolic flux, short generation time and inherent capabilities to transform inert N into plant-available N (N fixation). All the above-mentioned characteristics, techno-economic feasibility and environmental benefits make algae the most beneficial and demanding bioresource of the twenty-first century.
+RI V, Ramachandra T/Q-5982-2016; V, RAMACHANDRA T/AAC-2335-2019
+OI V, Ramachandra T/0000-0001-5528-1565; V, RAMACHANDRA
+   T/0000-0001-5528-1565
+SN 2512-1901
+EI 2512-1898
+BN 978-981-10-7146-1; 978-981-10-7145-4
+PY 2018
+VL 7
+BP 177
+EP 196
+DI 10.1007/978-981-10-7146-1_10
+D2 10.1007/978-981-10-7146-1
+UT WOS:000448877900012
+ER
+
+PT S
+AU Choudhary, C
+   Neeli, SR
+AF Choudhary, Chiranjiv
+   Neeli, Srinivasa Rajamani
+BE Pal, I
+   Shaw, R
+TI Good Governance to Achieve Resiliency and Sustainable Development
+SO DISASTER RISK GOVERNANCE IN INDIA AND CROSS CUTTING ISSUES
+SE Disaster Risk Reduction
+AB Climate change has resulted in increased frequency, intensity, magnitude, and uncertainty of natural disasters. This has been clearly brought out in various assessment reports of Intergovernmental Panel on Climate Change (IPCC), in particular AR IV and AR V. As vulnerabilities cannot be predicted completely, good governance can play a critical role in management of the disaster risks, improve resilience, and meet the challenges of sustainable development. Effective disaster risk management to reduce vulnerability would require mainstreaming CCA/DRR into policy, planning, and implementation of development schemes as a multilevel approach which combines activities at various levels and uses top-down as well as bottom-up dynamics. For proactive planning and to identify flexible options for unknown and unpredictable future, disaster risk governance is to be strengthened both vertically and horizontally. Therefore, good governance is the need of the hour, and it would play a critical role in effective management of disaster risks.
+   This chapter highlights good governance as one of the important tools to effectively manage the disaster risks and achieve sustainability and resilient development. It presents a detailed discussion on good governance and disaster risk governance.
+SN 2196-4106
+BN 978-981-10-3310-0; 978-981-10-3309-4
+PY 2018
+BP 245
+EP 259
+DI 10.1007/978-981-10-3310-0_13
+D2 10.1007/978-981-10-3310-0
+UT WOS:000439783200014
+ER
+
+PT S
+AU Zahid, A
+   Hossain, AFMA
+   Ali, MH
+   Islam, K
+   Abbassi, SU
+AF Zahid, Anwar
+   Hossain, A. F. M. Afzal
+   Ali, M. Hazrat
+   Islam, Kamrul
+   Abbassi, Salah Uddin
+BE Mukherjee, A
+TI Monitoring the Coastal Groundwater of Bangladesh
+SO GROUNDWATER OF SOUTH ASIA
+SE Springer Hydrogeology
+AB The low-lying topography and geographic position makes Bangladesh very vulnerable regarding the anticipated impacts of climate change that likely affects nearly all sectors of socio-economic life, where water sector is the most vulnerable and sensitive among them and country's coastal areas are at the greatest risk. The primary source of fresh water in the coastal belt is groundwater. But very few studies have been conducted to assess the influence of climate change on this resource. There is also high vulnerability to contamination with salinity due to mixing of pre-existing fresh and saline groundwater accelerated by irrigation pumping and vertical infiltration of salt water from periodic storm surge flooding. Changing climate and population stress might affect various components like recharge, discharge, storage, and water quality. The volume of water which is retained in the top soil is required for agriculture and has a role on the process of evaporation, recharge of groundwater, and innovation of runoff. Tidal saltwater wedge because of rising sea levels would cause to encroach further upstream in rivers, resulting salinity intrusion in aquifers. To know the evidence of changes in the events of hydrologic cycle including groundwater quality and storage is very important in order to adapt with the climate change impacts. The principal source of the irrigation water in Bangladesh is groundwater since decades and is one of the major factors making the nation almost self-dependent in crop production. Bangladesh being a very low-elevated country, where main part of the landform in the coast is up to 2-3 m above mean sea level, sea-level rise can cause increased intrusion of saline water both in surface water and in groundwater system. Inadequate safe water for irrigation and water supply will create more stress on fresh water. Therefore, it is important to map fresh water-saline water distribution in coastal aquifers with other important physico-chemical parameters and predict future changes in this environment due to both climate change and anthropogenic stresses. Considering this, a monitoring network has been established by Bangladesh Water Development Board in 19 coastal districts with monitoring wells at variable aquifer depths down to 350 m. The objective of the project, under the support of Bangladesh Climate Change Trust, is to establish a long-term monitoring network to assess and monitor coastal water resources both on quantitative and on qualitative aspects. This paper focuses on to determine the potential of available fresh water resources and distribution of salinity in aquifers both spatially and vertically, mainly based on the monitoring data, for sustainable long-term use of very scarce fresh water in the region.
+SN 2364-6454
+BN 978-981-10-3889-1; 978-981-10-3888-4
+PY 2018
+BP 431
+EP 451
+DI 10.1007/978-981-10-3889-1_26
+D2 10.1007/978-981-10-3889-1
+UT WOS:000444797300034
+ER
+
+PT S
+AU Pederson, N
+   Young, AB
+   Stan, AB
+   Ariya, U
+   Martin-Benito, D
+AF Pederson, Neil
+   Young, Amanda B.
+   Stan, Amanda B.
+   Ariya, Uyanga
+   Martin-Benito, Dario
+BE Amoroso, MM
+   Daniels, LD
+   Baker, PJ
+   Camarero, JJ
+TI Low-Hanging DendroDynamic Fruits Regarding Disturbance in Temperate,
+   Mesic Forests
+SO DENDROECOLOGY: TREE-RING ANALYSES APPLIED TO ECOLOGICAL STUDIES
+SE Ecological Studies-Analysis and Synthesis
+AB Temperate, mesic forests (TMFs) are generally viewed as being in a shifting-mosaic or a kind of dynamic equilibrium at broad spatial scales. Gaining insight to the potential dynamics of TMFs at large-scales is crucial because these species-rich, highly productive forests are important drivers of regional water and carbon cycles for approximately one billion people.
+   Here, we briefly review the disturbance dynamics of TMFs in eastern North America, Central Europe, and Japan, as well as the temperate rainforests of northwestern North America and western Eurasia. We find that current knowledge effectively describes the relatively frequent disturbance processes from stand to landscape scales. The few large-scale dendroecological networks in TMFs, however, suggest that large, infrequent disturbances (LIDs), those at regional scales or larger, are also important drivers of forest development. We also discuss the potential reasons why the spatiotemporal scales at which most ecological research is conducted-centennial-scale investigations (or longer) at small spatial scales or regional investigations (and larger) that only cover a few years to a decade or two-might bias our perception of TMF dynamics.
+   Our review leads us to hypothesize that the dynamic equilibrium concept in TMFs could be challenged by findings derived from broad-scale networks containing centuries of forest dynamics at high temporal resolution. Dendroecology is poised for this challenge. We provide dendroecological solutions to test the hypothesis that LIDs are important for long-term TMF dynamics. Our review also leads us to assert that the successional trajectories in TMFs are likely more diverse than what is commonly considered. Constraining the potential number of trajectories likely constrains ecological theory and forest management. To expand these perceptions, we present a conceptual model to aid comprehension of the potential n-dimensional developmental trajectories in diverse TMFs.
+   As we close in on a century of tree-ring research, new frontiers are being opened through the development of new methods and techniques that enhance investigations of temperate mesic forests. Applying these advances will help to address urgent questions on macroecological dynamics of temperate, mesic forests as climate change intensifies over the next century.
+SN 0070-8356
+BN 978-3-319-61669-8; 978-3-319-61668-1
+PY 2017
+VL 231
+BP 97
+EP 134
+DI 10.1007/978-3-319-61669-8_5
+D2 10.1007/978-3-319-61669-8
+UT WOS:000445137000007
+ER
+
+PT B
+AU Tokuda, Y
+   Jimba, M
+   Yanai, H
+   Fujii, S
+   Inoguchi, T
+AF Tokuda, Yasuharu
+   Jimba, Masamine
+   Yanai, Haruo
+   Fujii, Seiji
+   Inoguchi, Takashi
+BE Inoguchi, T
+   Tokuda, Y
+TI Interpersonal Trust and Quality-of-Life: A Cross-Sectional Study in
+   Japan
+SO TRUST WITH ASIAN CHARACTERISTICS: INTERPERSONAL AND INSTITUTIONAL
+AB Background: There is growing interest in psychosocial factors with positive attitudes, such as interpersonal trust, as determinants for Quality-of-life (QOL) or subjective well-being. Despite their longevity, Japanese people report a relatively poor subjective well-being, as well as lower interpersonal trust. Our aim in this study was to evaluate the possible association between interpersonal trust and QOL among Japanese people.
+   Methodology and Principal Findings: Based on the cross-sectional data for Japanese adults (2008), we analyzed the relationship between interpersonal trust and each of four domains of the WHOQOL-BREF. Interpersonal trust was assessed using three scales for trust in people, in human fairness and in human nature. In a total of 1000 participants (mean age: 45 years; 49% women), greater trust was recognized among women (vs. men), those aged 60-69 (vs. 20-29), or the high-income group (vs. low-income). Each of three trust scales was positively correlated with all domains of QOL. Multiple linear-regression models were constructed for each of QOL and the principal component score of the trust scales, adjusted for age, gender, area size of residence, income, education, and occupation. For all QOL domains, interpersonal trust was significantly and positively associated with better QOL with p,0.001 for all four domains including physical, psychological, social, and environmental QOL. Other factors associated with QOL included gender, age class, area size of residence, and income. Education and occupation were not associated with QOL.
+   Conclusions and Significance: Greater interpersonal trust is strongly associated with a better QOL among Japanese adults. If a causal relationship is demonstrated in a controlled interventional study, social and political measures should be advocated to increase interpersonal trust for achieving better QOL.
+RI Jimba, Masamine/AAF-5630-2020
+BN 978-981-10-2305-7; 978-981-10-2304-0
+PY 2017
+BP 103
+EP 122
+DI 10.1007/978-981-10-2305-7_7
+D2 10.1007/978-981-10-2305-7
+UT WOS:000413331200008
+ER
+
+PT B
+AU Tokuda, Y
+   Fujii, S
+   Inoguchi, T
+AF Tokuda, Yasuharu
+   Fujii, Seiji
+   Inoguchi, Takashi
+BE Inoguchi, T
+   Tokuda, Y
+TI Individual and Country-Level Effects of Social Trust on Happiness: The
+   Asia Barometer Survey
+SO TRUST WITH ASIAN CHARACTERISTICS: INTERPERSONAL AND INSTITUTIONAL
+AB The relationship of individual-level and country-level social trust to individuals' happiness was investigated, using cross-national data of 39,082 participants from 29 Asian countries. For self-reported happiness, 2.0% of the participants responded they were very happy, while 18.7% were very unhappy. The significant variables associated with happiness were female gender, being age 20-29 years or 60-69 years, married, high income and education, students/retired/homemaker, religious belief, good health, and higher individual and aggregate social trust. Individual health, social trust, and aggregate social trust were all independently associated with people's happiness. People were more likely to be happy if they lived in countries with higher aggregate social trust than countries with poor social trust.
+BN 978-981-10-2305-7; 978-981-10-2304-0
+PY 2017
+BP 123
+EP 139
+DI 10.1007/978-981-10-2305-7_8
+D2 10.1007/978-981-10-2305-7
+UT WOS:000413331200009
+ER
+
+PT B
+AU Tokuda, Y
+   Ohde, S
+   Takahashi, O
+   Hinohara, S
+   Fukui, T
+   Inoguchi, T
+   Butler, JP
+   Ueda, S
+AF Tokuda, Yasuharu
+   Ohde, Sachiko
+   Takahashi, Osamu
+   Hinohara, Shigeaki
+   Fukui, Tsuguya
+   Inoguchi, Takashi
+   Butler, James P.
+   Ueda, Shigeyuki
+BE Inoguchi, T
+   Tokuda, Y
+TI Influence of Income on Health Status and Healthcare Utilization in
+   Working Adults: An Illustration of Health Among the Working Poor in
+   Japan
+SO TRUST WITH ASIAN CHARACTERISTICS: INTERPERSONAL AND INSTITUTIONAL
+AB Little is known about health of the growing subpopulation of the working poor in Japan. We aimed to evaluate health status and healthcare utilization in relation to income among Japanese working adults. We conducted a one-month prospective cohort study using a health diary in working adults from a nationally representative random sample in Japan. Based on the government criterion, the working poor group was defined as earning an equivalent annual income of less than 1.48 million Japanese- yen. For health status, we measured symptomatic episodes and health-related quality of life (HRQOL). For healthcare utilization, we measured frequencies of visits to a physician or pharmacy, and use of complementary and alternative medicine (CAM). We constructed multiple linear regression models for these measures adjusted for age, gender, and co-morbidity, using annual equivalent income as a 4-level categorical variable.
+   Of 3568 participants originally enrolled in the study panel, 3477 completed the survey (response rate 97%). For the purpose of the study, of the 3568 participants, we analyzed 1406 working adults who were 20-65 years old (mean age, 40.8 year: 58.4% men). There were 106 (7.5%) working poor: 56 men (6.8% of working men) and 50 women (8.5% of working women). Compared to the highest income group, the working poor reported the greater number of symptomatic episodes and a slightly lower score of physical component of HRQOL (PCS8). The numbers of symptomatic episodes among the working poor and the highest income group during the 1-month study period were (SD, 8.77) and 7.01 (SD, 7.34), respectively (p < 0.01). The PCS8 among the working poor was 48.71 (SD, 7.05) and it was 50.34 (SD, 6.55) among the highest income group (p < 0.01). There was no difference of healthcare utilization by the different levels of income.
+   We concluded that the working poor (7.5% of all working adults) more frequently report symptomatic episodes and show slightly poorer physical health status, compared to the highest income group. Healthcare utilization is not affected by income.
+RI Ohde, Sachiko/AAC-6496-2019
+BN 978-981-10-2305-7; 978-981-10-2304-0
+PY 2017
+BP 177
+EP 190
+DI 10.1007/978-981-10-2305-7_11
+D2 10.1007/978-981-10-2305-7
+UT WOS:000413331200012
+ER
+
+PT S
+AU Maccioni, P
+   Colombo, G
+AF Maccioni, Paola
+   Colombo, Giancarlo
+BE Philippu, A
+TI Operant Self-Administration of Chocolate in Rats: An Addiction-Like
+   Behavior
+SO IN VIVO NEUROPHARMACOLOGY AND NEUROPHYSIOLOGY
+SE Neuromethods
+AB This chapter provides a detailed description of an operant procedure of self-administration of a chocolate-flavored beverage in rats. Specifically, rats are trained to lever-respond-on a Fixed Ratio 10 schedule of reinforcement-for a 5-s presentation of the chocolate-flavored beverage in daily sessions. Rats quickly learn to lever-respond for the chocolate-flavored beverage and steadily maintain high levels of lever-responding (approximately 2000 lever-responses in 60-min sessions), self-administering large amounts of the chocolate-flavored beverage (60-70 ml/kg/session). This procedure can also be successfully applied to studies using several other schedules, including Progressive Ratio, extinction responding, and cue-induced reinstatement of seeking behavior. Usefulness of this procedure spans from investigations on the neurobiological bases of food-related, addiction-like behaviors to screening compounds potentially effective in overeating disorders.
+SN 0893-2336
+BN 978-1-4939-6490-1; 978-1-4939-6488-8
+PY 2017
+VL 121
+BP 107
+EP 139
+DI 10.1007/978-1-4939-6490-1_6
+D2 10.1007/978-1-4939-6490-1
+UT WOS:000400918100008
+ER
+
+PT B
+AU Petz, M
+   Haas, R
+AF Petz, M.
+   Haas, R.
+BE Loijens, LWS
+TI Augmented reality technology planning and assessment
+SO AUGMENTED REALITY FOR FOOD MARKETERS AND CONSUMERS
+AB A general contextualization of augmented reality (AR) is given. The current institutional environment, relationship to mediated reality and assessment of AR at the human machine interface or human computer interface in a manufacturing environment is given. Human factors regarding health and safety are explored. Some AR wearables are discussed. A practical method of assessing AR tech in the firm is then provided. It makes use of the analytical hierarchic process (AHP), with data provided for AHP via task technology fit, technology acceptance model, customer satisfaction model, consumer products questionnaire, performance measurement method in the form of measuring usability of systems in context, subjective mental effort questionnaire, NASA task load index, subjective workload assessment technique, workload profile technique and the software usability measurement inventory. Also covered is test team selection and user profiling and dynamics with A and T competencies, common ground, relational capital and rich personal interaction. Artifact-centric, context-centric and quality of use views in respect to usability research approaches are clarified.
+OI Petz, Marcus/0000-0002-1478-8121
+BN 978-90-8686-842-1; 978-90-8686-299-3
+PY 2017
+BP 29
+EP 54
+DI 10.3920/978-90-8686-842-1_2
+D2 10.3920/978-90-8686-842-1
+UT WOS:000487318600003
+ER
+
+PT S
+AU Baune, BT
+AF Baune, Bernhard T.
+BE Dantzer, R
+   Capuron, L
+TI Are Non-steroidal Anti-Inflammatory Drugs Clinically Suitable for the
+   Treatment of Symptoms in Depression-Associated Inflammation?
+SO INFLAMMATION-ASSOCIATED DEPRESSION: EVIDENCE, MECHANISMS AND
+   IMPLICATIONS
+SE Current Topics in Behavioral Neurosciences
+AB The aetiology and pathophysiology of depression have long been associated with inflammation, at least in a proportion of patients. Altered cytokine activity in the periphery and in the brain has brought support to a concept of depression-associated inflammation. However, these immunological changes and inflammation in particular - in depression have only been recently targeted for treatment. Non-steroidal anti-inflammatory drugs (NSAIDs) have been proposed to be of clinical use in the treatment of depression either as monotherapy or as adjuncts in combination with antidepressants. Specifically, selective cyclo-oxygenase (COX)-2 and non-selective COX inhibitor NSAIDs as adjuncts or monotherapy have been trialled clinically. A limited body of clinical research has been conducted with mixed results so far. Although meta-analyses appear to support the use of NSAIDs in acute depression, the overall effect is mainly biased by the effects of celecoxib for which the best evidence exists to date. Efficacy data of non-selective COX inhibitor NSAIDs on depressive symptoms is limited and out of six studies, only a retrospective analysis shows positive results for non-selective COX inhibitor. Clinical data on aspirin, an irreversible inhibitor of both COX-1 and COX-2, are mainly experimental and hypothetical at this stage, but may be promising in depressed patients with concomitant inflammatory conditions. The main problematic factor is that current evidence rests on trials in acute depression. Because of the dynamic nature of depression, it is important exploring if NSAIDs and other anti-inflammatory treatments may have a preventive role in early stages of depression and for relapse prevention. The possible impact of anti-inflammatory treatments on immune changes in different phases of depression warrants caution for a wide and preventive use of anti-inflammatory agents in depression-associated inflammation.
+SN 1866-3370
+BN 978-3-319-51152-8; 978-3-319-51151-1
+PY 2017
+VL 31
+BP 303
+EP 319
+DI 10.1007/7854_2016_19
+D2 10.1007/978-3-319-51152-8
+UT WOS:000524464200016
+PM 27405497
+ER
+
+PT S
+AU Sangoro, J
+   Cosby, T
+   Kremer, F
+AF Sangoro, Joshua
+   Cosby, Tyler
+   Kremer, Friedrich
+BE Paluch, M
+TI Rotational and Translational Diffusion in Ionic Liquids
+SO DIELECTRIC PROPERTIES OF IONIC LIQUIDS
+SE Advances in Dielectrics
+AB Dynamic glass transition and charge transport in a variety of glass-forming aprotic ionic liquids (ILs) are investigated in wide frequency and temperature ranges by means of broadband dielectric spectroscopy (BDS), pulsed-field gradient nuclear magnetic resonance (PFG NMR), differential scanning calorimetry and dynamic mechanical spectroscopy. On the low-frequency side, the dielectric spectra exhibit electrode polarization effects, while hopping conduction in a disordered matrix dominates the spectra of ionic liquids at higher frequencies. Upon systematic variation of the molecular structure of the ionic liquids, it is observed that the absolute values of dc conductivity and viscosity span more than 11 orders of magnitude with temperature. However, quantitative agreement is found between the characteristic charge transport and the structural a-relaxation rates. These results are discussed in the context of dynamic glass transition-assisted hopping as the underlying mechanism of charge transport in the ionic liquids investigated. In addition, a novel approach to determine diffusion coefficients from dielectric spectra in quantitative agreement with PFG NMR is proposed. This makes it possible to separately determine the effective number densities and mobilities of the charge carriers and the type of their temperature dependence. The observed Vogel-Fulcher-Tammann (VFT) dependence of the dc conductivity is shown to be due to a similar temperature dependence of the mobility while Arrhenius type of thermal activation is found for the number density.
+RI Sangoro, Joshua/A-6573-2011
+OI Sangoro, Joshua/0000-0002-5483-9528; Cosby, Tyler/0000-0001-6381-558X
+SN 2190-930X
+BN 978-3-319-32489-0; 978-3-319-32487-6
+PY 2016
+BP 29
+EP 51
+DI 10.1007/978-3-319-32489-0_2
+D2 10.1007/978-3-319-32489-0
+UT WOS:000387582600003
+ER
+
+PT B
+AU Berliner, DC
+AF Berliner, David C.
+BE Mathis, WJ
+   Trujillo, TM
+TI ADDRESSING POVERTY
+SO LEARNING FROM THE FEDERAL MARKET-BASED REFORMS: LESSONS FOR ESSA
+SE National Education Policy Center Series
+AB This analysis is about the role of poverty in school reform. Data from a number of sources are used to make five points. First, that poverty in the United States is greater and of longer duration than in other rich nations. Second, that poverty, particularly among urban minorities, is associated with academic performance that is well below international means on a number of different international assessments. Scores of poor students are also considerably below the scores achieved by White middle class American students. Third, that poverty restricts the expression of genetic talent at the lower end of the socioeconomic scale. Among the lowest social classes environmental factors, particularly family and neighborhood influences, not genetics, is strongly associated with academic performance. Among middle class students it is genetic factors, not family and neighborhood factors, that most influences academic performance. Fourth, compared to middle-class children, severe medical problems affect impoverished youth. This limits their school achievement as well as their life chances. Data on the negative effect of impoverished neighborhoods on the youth who reside there is also presented. Fifth, and of greatest interest, is that small reductions in family poverty lead to increases in positive school behavior and better academic performance. It is argued that poverty places severe limits on what can be accomplished through school reform efforts, particularly those associated with the federal No Child Left Behind law. The data presented in this study suggest that the most powerful policy for improving our nations' school achievement is a reduction in family and youth poverty.
+BN 978-1-68123-503-5; 978-1-68123-504-2
+PY 2016
+BP 437
+EP 486
+UT WOS:000382709000021
+ER
+
+PT S
+AU Bosworth, W
+AF Bosworth, William
+BE Rasul, NMA
+   Stewart, ICF
+TI Geological Evolution of the Red Sea: Historical Background, Review, and
+   Synthesis
+SO RED SEA: THE FORMATION, MORPHOLOGY, OCEANOGRAPHY AND ENVIRONMENT OF A
+   YOUNG OCEAN BASIN
+SE Springer Earth System Sciences
+AB The Red Sea is part of an extensive rift system that includes from south to north the oceanic Sheba Ridge, the Gulf of Aden, the Afar region, the Red Sea, the Gulf of Aqaba, the Gulf of Suez, and the Cairo basalt province. Historical interest in this area has stemmed from many causes with diverse objectives, but it is best known as a potential model for how continental lithosphere first ruptures and then evolves to oceanic spreading, a key segment of the Wilson cycle and plate tectonics. Abundant and complementary datasets, from outcrop geology, geochronologic studies, refraction and reflection seismic surveys, gravity and magnetic surveys, to geodesy, have facilitated these studies. Magnetically striped oceanic crust is present in the Gulf of Aden and southern Red Sea, active magma systems are observed onshore in the Afar, highly extended continental or mixed crust submerged beneath several kilometers of seawater is present in the northern Red Sea, and a continental rift is undergoing uplift and exposure in the Gulf of Suez. The greater Red Sea rift system therefore provides insights into all phases of rift-to-drift histories. Many questions remain about the subsurface structure of the Red Sea and the forces that led to its creation. However, the timing of events-both in an absolute sense and relative to each other-is becoming increasingly well constrained. Six main steps may be recognized: (1) plume-related basaltic trap volcanism began in Ethiopia, NE Sudan (Derudeb), and SW Yemen at similar to 31 Ma, followed by rhyolitic volcanism at similar to 30 Ma. Volcanism thereafter spread northward to Harrats Sirat, Hadan, Ishara-Khirsat, and Ar Rahat in western Saudi Arabia. This early magmatism occurred without significant extension or at least none that has yet been demonstrated. It is often suggested that this "Afar" plume triggered the onset of Aden-Red Sea rifting, or in some models, it was the main driving force. (2) Starting between similar to 29.9 and 28.7 Ma, marine syn-tectonic sediments were deposited on continental crust in the central Gulf of Aden. Therefore, Early Oligocene rifting is established to the east of Afar. Whether rifting propagated from the vicinity of the Sheba Ridge toward Afar, or the opposite, or essentially appeared synchronously throughout the Gulf of Aden is not yet known. (3) By similar to 27.5-23.8 Ma, a small rift basin was forming in the Eritrean Red Sea. At approximately the same time (similar to 25 Ma), extension and rifting commenced within Afar itself. The birth of the Red Sea as a rift basin is therefore a Late Oligocene event. (4) At similar to 24-23 Ma, a new phase of volcanism, principally basaltic dikes but also layered gabbro and granophyre bodies, appeared nearly synchronously throughout the entire Red Sea, from Afar and Yemen to northern Egypt. The result was that the Red Sea rift briefly linked two very active volcanic centers covering 15,000-25,000 km(2) in the north and >600,000 km(2) in the south. The presence of the "mini-plume" in northern Egypt may have played a role somewhat analogous to Afar vis-a-vis the triggering of the dike event. The 24-23 Ma magmatism was accompanied by strong rift-normal extension and deposition of syn-tectonic sediments, mostly of marine and marginal marine affinity. The area of extension in the north was very broad, on the order of 1,000 km, and much narrower in the south, about 200 km or less. Throughout the Red Sea, the principal phase of rift shoulder uplift and rapid syn-rift subsidence followed shortly thereafter.
+   Synchronous with the appearance of extension throughout the entire Red Sea, relative convergence between Africa and Eurasia slowed by about 50 %. (5) At similar to 14-12 Ma, a transform boundary cut through Sinai and the Levant continental margin, linking the northern Red Sea with the Bitlis-Zagros convergence zone. This corresponded with collision of Arabia and Eurasia, which resulted in a new plate geometry with different boundary forces. Red Sea extension changed from rift normal (N60 degrees E) to highly oblique and parallel to the Aqaba-Levant transform (N15 degrees E). Extension across the Gulf of Suez decreased by about a factor of 10, and convergence between Africa and Eurasia again dropped by about 50 %. In the Afar region, Red Sea extension shifted from offshore Eritrea to west of the Danakil horst, and activity began in the northern Ethiopian rift. (6) These early events or phases all took place within continental lithosphere and formed a continental rift system 4,000 km in length. When the lithosphere was sufficiently thinned, an organized oceanic spreading center was established and the rift-to-drift transition started. Oceanic spreading initiated first on the Sheba Ridge east of the Alula-Fartaq fracture zone at similar to 19-18 Ma. After stalling at this fracture zone, the ridge probably propagated west into the central Gulf of Aden by similar to 16 Ma. This matches the observed termination of syn-tectonic deposition along the onshore Aden margins at approximately the same time. At similar to 10 Ma, the Sheba Ridge rapidly propagated west over 400 km from the central Gulf of Aden to the Shukra al Sheik discontinuity. Oceanic spreading followed in the south-central Red Sea at similar to 5 Ma. This spreading center was initially not connected to the spreading center of the Gulf of Aden. By similar to 3 to 2 Ma, oceanic spreading moved west of the Shukra al Sheik discontinuity, and the entire Gulf of Aden was an oceanic rift. During the last similar to 1 My, the southern Red Sea plate boundary linked to the Aden spreading center through the Gulf of Zula, Danakil Depression, and Gulf of Tadjoura. Presently, the Red Sea spreading center may be propagating toward the northern Red Sea to link with the Aqaba-Levant transform. However, important differences appear to exist between the southern and northern Red Sea basins, both in terms of the nature of the pre- to syn-rift lithospheric properties and the response to plate separation. If as favored here no oceanic spreading is present in the northern Red Sea, then it is a magma-poor hyperextended basin with beta factor >4 that is evolving in many ways like the west Iberia margin. It is probable that the ultimate geometries of the northern and southern Red Sea passive margins will be very different. The Red Sea provides an outstanding area in which to study the rift-to-drift transition of continental disruption, but it is unlikely to be a precise analogue for all passive continental margin histories.
+SN 2197-9596
+BN 978-3-662-45201-1; 978-3-662-45200-4
+PY 2015
+BP 45
+EP 78
+DI 10.1007/978-3-662-45201-1_3
+D2 10.1007/978-3-662-45201-1
+UT WOS:000383284100004
+ER
+
+PT B
+AU Blummel, M
+   Haileslassie, A
+   Herrero, M
+   Beveridge, M
+   Phillips, M
+   Havlik, P
+AF Blummel, Michael
+   Haileslassie, Amare
+   Herrero, Mario
+   Beveridge, Malcolm
+   Phillips, Michael
+   Havlik, Petr
+BE Malik, PK
+   Bhatta, R
+   Takahashi, J
+   Kohn, RA
+   Prasad, CS
+TI Feed Resources vis-a-vis Livestock and Fish Productivity in a Changing
+   Climate
+SO LIVESTOCK PRODUCTION AND CLIMATE CHANGE
+SE CABI Climate Change Series
+AB Globally, livestock contributes 40% to agricultural gross domestic product (GDP), employs more than 1 billion people and creates livelihoods for more than 1 billion poor. From a nutritional standpoint, livestock contributes about 30% of the protein in human diets globally and more than 50% in developed countries. Aqua culture accounts for nearly 50% of global seafood production and employs more than 100 million people. As outlined in the livestock revolution scenario, consumption of animalsourced food (ASF) will increase substantially, particularly in the so-called developing countries in response to urbanization and rising incomes, offering opportunities and income for smallholder producers and even the landless, thereby providing pathways out of poverty. It is important to recognize that the increasing demand for ASF pertains to ruminants (meat and milk), monogastrics (broilers, eggs and pork) and aquatic animals such as fish. To put it differently, much more animal feed will be needed for all domestic livestock and farmed aquatic animals in the future. Competition for feed among livestock and fish species will increase, in addition to competition with human food production and biomass needs for biofuels and soil health, unless we see significant levels of intensification of ASF production, and in ways that are environmentally sustainable. Animal source food production globally already faces increasing pressure because of negative environmental implications, particularly because of greenhouse gas emissions. As livestock and aquaculture are important sources of livelihood, it is necessary to find suitable solutions to convert these industries into economically viable enterprises, while reducing the ill effects of global warming. In relation to climate change, ASFs will have to play a dual role: one of mitigation and the other of adaptation.
+   The most evident and important effects of climate change on livestock production will be mediated through changes in feed resources. The main pathways in which climate change can affect the availability of feed resources for livestock - land-use and - systems changes, changes in the primary productivity of crops, forages and rangelands, changes in species composition and changes in the quality of plant material - will be discussed in the chapter. The chapter will propose an environmentally friendly development of livestock production systems, where increased production will be met by increased efficiency of production and not through increased animal numbers. For aquaculture,the focus will be on better sourcing of feedstuffs and on-farm feed management. Feeding strategies that increase the efficiency of production by producing more from fewer livestock animals and less feed will result in reduced greenhouse gas emissions. This will be demonstrated by analysing livestock populations in India and their respective level of productivity. Thus, in India in 2005/06, the daily milk yield of cross-bred, local cows and buffalo averaged 3.61 l, resulting in a ratio of feed metabolizable energy (ME) for maintenance and production of 2.2 to 1. By increasing daily milk production in a herd model (of a mixed cross-bred, local cow, buff alo population) from 3.61 to 15 l day(-1), energy expended for maintenance becomes 1:1.91. As a result, the same amount of milk can be produced by fewer livestock, leading to a reduction in emissions of methane of more than 1 million tonne (Mt) year(-1).
+RI Haileslassie, Amare/C-5850-2013; Herrero, Mario/A-6678-2015; Phillips,
+   Michael/X-7324-2018
+OI Haileslassie, Amare/0000-0001-5237-9006; Herrero,
+   Mario/0000-0002-7741-5090; Phillips, Michael/0000-0002-0282-0286
+BN 978-1-78064-432-5
+PY 2015
+VL 6
+BP 8
+EP 24
+D2 10.1079/9781780644325.0000
+UT WOS:000377032500003
+ER
+
+PT B
+AU Schrey, SD
+   Hartmann, A
+   Hampp, R
+AF Schrey, Silvia D.
+   Hartmann, Anton
+   Hampp, Ruediger
+BE Krauss, GJ
+   Nies, DH
+TI Rhizosphere Interactions
+SO ECOLOGICAL BIOCHEMISTRY: ENVIRONMENTAL AND INTERSPECIES INTERACTIONS
+AB Roots are important not only for water and nutrient supply of the plant, but also to release a wide range of carbon compounds of low molecular weight, such as sugars, amino, and organic acids. These can amount to between 10% and 20% of total net fixed carbon but vary based on species, nitrogen availability, and plant age. In addition, most land plants form symbioses with soil fungi, which in addition cause a considerable drain of photoassimilates. Direct (plant exudates) or indirect (via symbiotic fungi) rhizodeposition of carbon forms the basis for an environment rich in diversified microbiological populations. This was first suggested by Hiltner in 1904.
+   The rhizosphere is now defined as a narrow zone of soil, which is influenced by living roots. It forms a boundary layer between the root and the bulk soil. Here large fluxes of solutes and water, as well as compounds contained in the gas phase, exist. Consequently, physical soil properties can vary considerably. Depending on the demands of the plant, changes in the soil water potential can be high during the day/night cycle. In comparison to bulk soil, the soil water potential can become strongly negative during the day at high transpiration rates and less negative at night because of vertical redistribution by the root system (hydraulic lift). Special conditions also exist with regard to O-2 and pH. Following high rates of respiration by both roots and microorganisms, O-2 tension can be very low especially in wet soil where water limits diffusion rates. Uptake of solutes is often accompanied by the release of protons and organic acids, which affects the pH at the root surface.
+   Microorganisms of the rhizosphere establish a functional diversity that includes the decomposition of organic matter, nitrogen fixation, conversion of inorganic forms of nitrogen, solubilization of phosphate, transformation of sulfur and iron, production of siderophores (iron-binding compounds), release of plant(phyto) hormones, as well as of compounds, which are used for biotic control.
+   It is obvious that bacteria are an important part of the microorganisms inhabiting this ecological niche. In comparison to bulk soil, the abundance of rhizosphere bacteria is several magnitudes higher (1010-1012 microbes per gram soil versus <10(8) in bulk soil), but still about 100 times lower than under culture conditions. Bacteria can solubilize nutrients from the mineral soil layer, but will also sequester them. Consumption of bacteria by soil protozoa and nematodes will then liberate nutrients, which in due course will become available for plants.
+   Fungi form another important part of the rhizosphere. Most terrestrial plants develop symbiotic structures (mycorrhiza) with soil-borne fungi, creating another sphere, the mycorrhizosphere. In these interactions, the fungal partner provides the plant with improved access to water and soil nutrients because of more or less complex hyphal structures, which emanate from the root surface and extend far into the soil. The plant, in return, supplies carbohydrates for fungal growth and maintenance. Because of leakage and the turnover of mycorrhizal structures, these are another source for solutes released into the soil where they can be accessed by other microorganisms.
+   In the following interactions of bacteria, fungi and plants, and, finally those of plants with each other are addressed. With regard to soil bacteria, a wide range of bacterial activities exist such as the "good" ones (plant growth promotion, plant disease suppression, nitrogen fixation) and the "bad" ones (plant pathogens), as well as bioactive compounds of bacterial secondary metabolism, which cause the respective effects. Plant-associated bacteria act as opportunistic human pathogens. Fungi form another focus, here especially the bacterial influence on symbiotic and plant pathogenic fungi. Finally, direct (parasitic plants, plant competition) and indirect (by the help of fungi) interactions of plants themselves are described.
+   The examples introduced below show that the contemporary knowledge about organisms and interactions in the rhizosphere has increased recently, mainly because of the many attempts to improve plant growth and fitness.
+   The intense use of metagenomics with soil samples continuously reveals the enormous diversity of microorganisms living and thriving on plant-derived exudates. Interestingly, most of these organisms are not pathogenic in nature. This is understandable because they depend on the continuous delivery of organic compounds by the plant. This could also explain why so many rhizosphere bacteria produce toxins that mainly affect plant pathogenic microorganisms or release compounds that are plant-beneficial.
+   An investigation of the chemical interactions is, however, extremely limited owing to the lack of suitable experimental procedures and of set-ups that represent realistic conditions. Experimentally sound studies can most easily be performed under sterile conditions using cocultures of the respective organisms or exuded compounds. Three partite systems (host plant + two microorganisms (e.g., pathogen + antagonist)) become already very difficult to handle, and the step to field studies is enormous. Many other organisms now interfere, metabolically modifying the "identified bioactive compounds" to an unknown extend. Further, owing to different binding properties of soil particles and other soil chemical factors, the fate of any such compound remains unclear. Thus, there is still a long way to go to broaden our understanding of the processes and molecules involved in rhizosphere interactions.
+RI Hartmann, Anton/AAN-8922-2020
+BN 978-3-527-68606-3; 978-3-527-31650-2
+PY 2015
+BP 293
+EP 310
+UT WOS:000363538700017
+ER
+
+PT B
+AU Razen, A
+   Brunauer, W
+   Klein, N
+   Lang, S
+   Umlauf, N
+AF Razen, Alexander
+   Brunauer, Wolfgang
+   Klein, Nadja
+   Lang, Stefan
+   Umlauf, Nikolaus
+BE Helbich, M
+   Arsanjani, JJ
+   Leitner, M
+TI Hedonic House Price Modeling Based on Multilevel Structured Additive
+   Regression
+SO COMPUTATIONAL APPROACHES FOR URBAN ENVIRONMENTS
+SE Geotechnologies and the Environment
+AB This chapter reviews recent developments in hedonic modeling of house prices based on structured additive regression (STAR) models. In STAR models, continuous covariates are modeled as P(enalized)-splines. Furthermore, random effects for spatial indexes, smooth functions of two-dimensional surfaces, and (spatially) varying coefficient terms may also be estimated using this methodology. Based on hierarchical STAR models, we discuss a number of useful extensions. With respect to value-at-risk concepts, financial institutions are often not only interested in the expected value but also in different quantiles of the distribution of real estate prices. To meet these requirements, we apply multilevel STAR models for location scale and shape (GAMLSS type regression) and a Bayesian version of quantile regression. As another extension, we sketch multiplicative region-specific scaling factors for nonlinear covariates in order to permit spatial variation in the nonlinear price gradients.
+RI Lang, Stefan/E-7500-2010
+OI Lang, Stefan/0000-0003-0739-3858; Klein, Nadja/0000-0002-5072-5347
+BN 978-3-319-11469-9; 978-3-319-11468-2
+PY 2015
+VL 13
+BP 97
+EP 122
+DI 10.1007/978-3-319-11469-9_5
+D2 10.1007/978-3-319-11469-9
+UT WOS:000357510900006
+ER
+
+PT B
+AU Gagliarducci, S
+   Paserman, MD
+AF Gagliarducci, Stefano
+   Paserman, M. Daniele
+BE Polachek, SW
+   Tatsiramos, K
+   Zimmermann, KF
+TI THE EFFECT OF FEMALE LEADERSHIP ON ESTABLISHMENT AND EMPLOYEE OUTCOMES:
+   EVIDENCE FROM LINKED EMPLOYER-EMPLOYEE DATA
+SO GENDER CONVERGENCE IN THE LABOR MARKET
+SE Research in Labor Economics
+AB In this paper we use a large linked employer-employee data set on German establishments between 1993 and 2012 to investigate how the gender composition of the top layer of management affects a variety of establishment and worker outcomes. We use two different measures to identify the gender composition of the top layer based on direct survey data: the fraction of women among top managers, and the fraction of women among working proprietors. We document the following facts: (a) There is a strong negative association between the fraction of women in the top layer of management and several establishment outcomes, among them business volume, investment, total wage bill per worker, total employment, and turnover; (b) Establishments with a high fraction of women in the top layer of management are more likely to implement female-friendly policies, such as providing childcare facilities or promoting and mentoring female junior staff; (c) The fraction of women in the top layer of management is also negatively associated with employment and wages, both male and female, full-time and part-time. However, all of these associations vanish when we include establishment fixed effects and establishment-specific time trends. This reveals a substantial sorting of female managers across establishments: small and less productive establishments that invest less, pay their employees lower wages, but are more female-friendly are more likely to be led by women.
+RI Paserman, M. Daniele/T-6858-2019
+BN 978-1-78441-455-9; 978-1-78441-456-6
+PY 2015
+VL 41
+BP 343
+EP 375
+DI 10.1108/S0147-912120140000041017
+UT WOS:000416590000011
+ER
+
+PT S
+AU Rosenbaum, RK
+AF Rosenbaum, Ralph K.
+BE Hauschild, MZ
+   Huijbregts, MAJ
+TI Ecotoxicity
+SO LIFE CYCLE IMPACT ASSESSMENT
+SE LCA Compendium-The Complete World of Life Cycle Assessment
+AB Ecotoxicity impact assessment of chemicals in life cycle assessment (LCA) adheres to a number of underlying principles and boundary conditions: (1) a large number of emitted substances to cover (at least 100,000 potentially relevant elementary flows with current models covering around 2,500), (2) linearity of characterisation models, (3) conservation of mass and mass balance, (4) infinite time horizon, (5) additivity of toxicity, (6) assuming average conditions as best estimates to avoid bias in the comparison (including consideration of generic/average ecosystems and impacts). The cause-effect mechanism for ecotoxicity impacts of chemicals can be divided into four parts: (1) chemical fate (i.e. chemical behaviour/distribution in the environment), (2) exposure (i.e. bioavailability), (3) effects (i.e. affected species), and (4) severity (i.e. disappeared species). In terms of species represented, a freshwater ecosystem is described in this chapter by three trophic levels: (1) primary producers (e.g. algae), (2) primary consumers (i.e. invertebrates), and (3) secondary consumers (e.g. fish). Model uncertainty was estimated at about three orders of magnitude on top of important sources of parameter uncertainty such as degradation rates and effect factors. Current midpoint LCIA methodologies covering ecotoxicity include TRACI 2.0, and the ILCD recommended methodology, both employing the USEtox factors. Current LCIA methodologies covering midpoint and endpoint characterisation are ReCiPe, LIME, IMPACT 2002+, and IMPACT World+. Important research needs are (1) increasing substance coverage, (2) further developing marine and terrestrial ecotoxicity modelling for midpoint, (3) improving endpoint modelling for ecotoxicity towards biodiversity, (4) consideration of long-term emissions and impacts of metals, (5) importance of spatial and temporal variability, (6) mixture toxicity, and (7) decreasing model and parameter uncertainty.
+SN 2214-3505
+EI 2214-3513
+BN 978-94-017-9744-3; 978-94-017-9743-6
+PY 2015
+BP 139
+EP 162
+DI 10.1007/978-94-017-9744-3_8
+D2 10.1007/978-94-017-9744-3
+UT WOS:000417721200009
+ER
+
+PT S
+AU Nuruzzaman, M
+AF Nuruzzaman, Md
+BE Quaddus, M
+   Woodside, AG
+TI IMPROVING COMPETITIVENESS IN MANUFACTURING-WHOLESALING-RETAILING SUPPLY
+   CHAINS
+SO SUSTAINING COMPETITIVE ADVANTAGE VIA BUSINESS INTELLIGENCE, KNOWLEDGE
+   MANAGEMENT, AND SYSTEM DYNAMICS
+SE Advances in Business Marketing and Purchasing
+AB The objective of this study is to investigate how country risk, different political actions from the government and bureaucratic behavior influence the activities in industry supply chains (SCs) in emerging markets. The main objective of this study is to investigate the influence of these external stakeholders' elements to the demand-side and supply-side drivers and barriers for improving competitiveness of Ready-Made Garment (RMG) industry in the way of analyzing supply chain. Considering the phenomenon of recent change in the RMG business environment and the competitiveness issues this study uses the principles of stakeholder and resource dependence theory and aims to find out some factors which influence to make an efficient supply chain for improving competitiveness. The RMG industry of Bangladesh is the case application of this study. Following a positivist paradigm, this study adopts a two phase sequential mixed-method research design consisting of qualitative and quantitative approaches. A tentative research model is developed first based on extensive literature review. Qualitative field study is then carried out to fine tune the initial research model. Findings from the qualitative method are also used to develop measures and instruments for the next phase of quantitative method. A survey is carried out with sample of top and middle level executives of different garment companies of Dhaka city in Bangladesh and the collected quantitative data are analyzed by partial least square-based structural equation modeling. The findings support eight hypotheses. From the analysis the external stakeholders' elements like bureaucratic behavior and country risk have significant influence to the barriers. From the internal stakeholders' point of view the manufacturers' and buyers' drivers have significant influence on the competitiveness. Therefore, stakeholders need to take proper action to reduce the barriers and increase the drivers, as the drivers have positive influence to improve competitiveness.
+   This study has both theoretical and practical contributions. This study represents an important contribution to the theory by integrating two theoretical perceptions to identify factors of the RMG industry's SC that affect the competitiveness of the RMG industry. This research study contributes to the understanding of both external and internal stakeholders of national and international perspectives in the RMG (textile and clothing) business. It combines the insights of stakeholder and resource dependence theories along with the concept of the SC in improving effectiveness. In a practical sense, this study certainly contributes to the Bangladeshi RMG industry. In accordance with the desire of the RMG manufacturers, the research has shown that some influential constructs of the RMG industry's SC affect the competitiveness of the RMG industry. The outcome of the study is useful for various stakeholders of the Bangladeshi RMG industry sector ranging from the government to various private organizations. The applications of this study are extendable through further adaptation in other industries and various geographic contexts.
+SN 1069-0964
+BN 978-1-78441-763-5; 978-1-78441-764-2
+PY 2015
+VL 22A
+BP 221
+EP +
+DI 10.1108/S1069-096420150000022016
+D2 10.1108/S1069-0964201522B
+UT WOS:000416588700003
+ER
+
+PT S
+AU Stark, A
+   Brehm, M
+   Brussel, M
+   Lehmann, SBC
+   Pensado, AS
+   Schoppke, M
+   Kirchner, B
+AF Stark, Annegret
+   Brehm, Martin
+   Bruessel, Marc
+   Lehmann, Sebastian B. C.
+   Pensado, Alfonso S.
+   Schoeppke, Matthias
+   Kirchner, Barbara
+BE Kirchner, B
+TI A Theoretical and Experimental Chemist's Joint View on Hydrogen Bonding
+   in Ionic Liquids and Their Binary Mixtures
+SO ELECTRONIC EFFECTS IN ORGANIC CHEMISTRY
+SE Topics in Current Chemistry-Series
+AB A combined experimental and theoretical approach including quantum chemistry tools and computational simulation techniques can provide a holistic description of the nature of the interactions present in ionic liquid media. The nature of hydrogen bonding in ionic liquids is an especially intriguing aspect, and it is affected by all types of interactions occurring in this media. Overall, these interactions represent a delicate balance of forces that influence the structure and dynamics, and hence the properties of ionic liquids. An understanding of the fundamental principles can be achieved only by a combination of computations and experimental work. In this contribution we show recent results shedding light on the nature of hydrogen bonding, for certain cases the formation of a three-dimensional network of hydrogen bonding, and its dynamics by comparing 1-ethyl-3-methylimidazolium based acetate, chloride and thiocyanate ionic liquids. A particularly interesting case to study hydrogen bonding and other interactions is the investigation of binary mixtures of ionic liquids of the type [cation1][anion1]/[cation1][anion2]. In these mixtures, competing interactions are to be expected. We present both a thorough property meta-analysis of the literature and new data covering a wide range of anions, i.e., mixtures of 1-ethyl-3-methylimidazolium acetate with either trifluoroacetate, tetrafluoroborate, methanesulfonate, or bis (trifluoromethanesulfonyl) imide. In most cases, ideal mixing behavior is found, a surprising result considering the multitude of interactions present. However, ideal mixing behavior allows for the prediction of properties such as density, refractive index, surface tension, and, in most cases, viscosity as function of molar composition. Furthermore, we show that the prediction of properties such as the density of binary ionic liquid mixtures is possible by making use of group contribution methods which were originally developed for less complex non-ionic molecules. Notwithstanding this ideal mixing behavior, several exciting applications are discussed where preferential solvation via hydrogen bonding gives rise to non-additive effects leading to performance improvements. The assessment of the excess properties and H-1 NMR spectroscopic studies provide information on these structural changes and preferential interactions occurring in binary mixtures of ionic liquid, that clearly support the conclusions drawn from the computational studies.
+RI Brehm, Martin/L-5258-2017; Stark, Annegret/F-1879-2013
+OI Brehm, Martin/0000-0002-6861-459X; Stark, Annegret/0000-0001-9547-3422
+SN 0340-1022
+EI 1436-5049
+BN 978-3-662-43582-3; 978-3-662-43581-6
+PY 2014
+VL 351
+BP 149
+EP 187
+DI 10.1007/128_2013_485
+D2 10.1007/978-3-662-43582-3
+UT WOS:000356808800006
+PM 24682761
+ER
+
+PT S
+AU Starinsky, A
+   Katz, A
+AF Starinsky, Abraham
+   Katz, Amitai
+BE Garfunkel, Z
+   BenAvraham, Z
+   Kagan, E
+TI The Story of Saline Water in the Dead Sea Rift - The Role of Runoff and
+   Relative Humidity
+SO DEAD SEA TRANSFORM FAULT SYSTEM: REVIEWS
+SE Modern Approaches in Solid Earth Sciences
+AB Saline waters have been found in the subsurface of the Dead Sea basin along the area stretching from Lake Kinneret in the north to the Timna area in the south. The maximum salinity of the waters reaches 340 g L-1, and their chemical composition is Ca-chloridic, like most subsurface brines in sedimentary basins elsewhere. It is now generally accepted that such waters evolved from ancient seawater via a three-stage mechanism, namely: (1) seawater evaporation in a marine lagoon; (2) modification of the resulting brine by water-rock interaction; (3) dilution of the brine by freshwater or mixing with other saline fluids.
+   The age of the parental seawater from which the salinity of the brines was derived is Late Miocene to Early Pliocene. All saline waters in the Dead Sea basin display Na/Cl ratios below that of seawater (0.86), indicating that their evolution should be tied to formation of rock salt bodies; indeed, such were actually found in the subsurface of the two tectonic depressions of the Dead Sea and Lake Kinneret (Sea of Galilee). It is likely that the ancient lagoon from which the seawater evaporated and in which the salt deposited was approximately 300 km long and 20 km wide.
+   The Na/Cl ratios in the brines and in fluid inclusions in halite crystals formed from these waters cover a wide range below the seawater value (0.86), reaching values as low as 0.1 eq/eq (All solute ratios in the paper are presented in equivalent units unless otherwise stated).
+   The maximum degree of evaporation that an aqueous solution may reach depends, amongst other things, on the relative humidity. Because evaporation may proceed only as long as the activity of water in the evaporating solution (a(H2O)) is higher than the relative humidity above it, it is possible to estimate the maximum relative humidity that prevailed in the area during the deposition of the salt from the Na/Cl ratio in a given brine or in fluid inclusion enclosed in a halite sample.
+   The Pliocene lagoon waters that, at that stage, had high Mg/Ca ratios, started to migrate outwards from the basin towards the west, under the local hydraulic head, through the Judea group limestone layers of upper Cretaceous age which comprise in that area the margin of the basin. During their passage, the brines interacted with limestone beds resulting in discordant dolomite bodies. The resulting, brine accumulated at depth in the Northern Negev.
+   Upon decline of the regional hydraulic head, the waters that infiltrated out to the west reversed their flow backwards to the basin, now displaying a chemical composition significantly different than that on their way out. The newly acquired -composition is thus characterized by low Mg/Ca and SO4/Cl ratios, of similar to 0.5 and similar to 0.01, respectively, and is defined as R-1 water.
+   At some later time the lagoon was cut off from the sea, and its area was -transformed to a lacustrine environment, allowing for other processes to take place which modified the composition of the lagoonal brines. As from the lagoon's cut off from the sea, the contribution of dissolved marine salts to the basin was substituted by freshwater solutes carried in by runoff.
+   The freshwater that started to feed the saline lake(s) was saturated with respect to CaCO3 minerals (calcite and aragonite), deposited its entire load of dissolved Ca2+ as CaCO3 and CaSO4 in the lake. Additional Ca2+ to compensate for the excess SO4 + HCO3 over Ca2+ was borrowed from the saline, Ca-chloridic brine in the lake, bringing about a marked increase in the Mg/Ca ratio therein. The present paper presents a model (Katz and Starinsky, Aquat Geochem 15: 159-194, 2009) that describes the relation between the increase in the Mg/Ca ratio of the lake and the accumulated mass of CaCO3 (calcite or aragonite) that was deposited in it. The evolving saline waters affected by this process, with Mg/Ca ratios >1, are defined as group R2 waters.
+   An additional, significant modification of the brine inflicted by its passage from a marine lagoon to a lacustrine water body is reflected by the Sr-87/Sr-86 isotope ratio. We inspect two cases relevant to this question, the first in the Lake Kinneret area and the second in the Dead Sea basin.
+   The R-2 lacustrine waters on the eastern side of Lake Kinneret show Sr-87/Sr-86 isotope ratios around 0.706, contrasting in this regard with the R1-type waters on the western side of the lake which are characterized by Sr-87/Sr-86 isotope ratios of similar to 0.708. We propose that the Sr-87/Sr-86 ratio transition 0.708 -> 0.706 is driven by addition of freshwater with low Sr-87/Sr-86 ratios (0.704-0.707) originating in the runoff flowing to the lake over the basaltic terrain from the NE (Sr-87/Sr-86 similar to 0.704).
+   In the southern, Dead Sea area, the lacustrine R-2 waters were fed by runoff with Sr-87/Sr-86 similar to 0.708 and, therefore, remained unchanged in this respect.
+   The Timna water composition is a result of interaction between diluted -subsurface Ca chloride brines that originated as group R-S1 in the Dead Sea area with basic igneous rocks. The depletion of Mg2+ in the water is due to a reaction of destruction of Ca-plagioclase and formation of Mg2+ rich mixture of epidote and chlorite. The Sr isotope signature of similar to 0.706 was formed by exchange of high 87Sr/86Sr (similar to 0.708) brines with low Sr-87/(8)6Sr (similar to 0.7045) igneous basic rocks, like olivine norite. The age of the water-rock interaction is estimated to be older than the R-s brine formation, i.e. <3-4 m.y.
+SN 1876-1682
+BN 978-94-017-8872-4; 978-94-017-8871-7
+PY 2014
+VL 6
+BP 317
+EP 353
+DI 10.1007/978-94-017-8872-4_11
+D2 10.1007/978-94-017-8872-4
+UT WOS:000343087700012
+ER
+
+PT S
+AU Laslett, LL
+   Jones, G
+AF Laslett, Laura L.
+   Jones, Graeme
+BE AbdelSalam, OME
+TI Capsaicin for Osteoarthritis Pain
+SO CAPSAICIN AS A THERAPEUTIC MOLECULE
+SE Progress in Drug Research
+AB Capsaicin appears to be effective for osteoarthritis pain but it is uncertain whether the effect has a dose response, is consistent across joints, or changes over time. Methods: Randomized controlled trials of topical capsaicin use in OA were identified from PubMed, EMBASE, and ISI Web of Knowledge. Effect on pain scores, patient global evaluation of treatment effectiveness and application site burning were assessed by standardised mean differences (SMD), using RevMan. Results: Five double-blind randomized controlled trials and one case-crossover trial of topical capsaicin use were identified. Formulations ranged from 0.025 to 0.075 %, and trial durations from 4 to 12 weeks. Trials assessed OA of the knee (n = 3), hand (n = 1), and a mix of joints (n = 2). Capsaicin treatment efficacy (vs. placebo) for change in VAS pain score was moderate, at 0.44 (95 % CI 0.25-0.62) over 4 weeks of treatment. There was no heterogeneity between studies, indicating no between-study differences, including effect of OA site or treatment concentration. Two studies reported treatment beyond 4 weeks, with divergent results. One study reported an effect size of -9 mm after 12 weeks, and maximal between-group differences at 4 weeks. A second study reported that between-group differences increased over time, up to 20 weeks. Capsaicin was reported as being safe and well-tolerated, with no systemic toxicity. Mild application site burning affected 35-100 % of capsaicin-treated patients with a risk ratio of 4.22 (95 % CI 3.25-5.48, n = 5 trials); incidence peaked in week 1, with incidence rates declining over time. Conclusions: Topical capsaicin treatment four times daily is moderately effective in reducing pain intensity up to 20 weeks regardless of site of application and dose in patients with at least moderate pain and clinical or radiologically defined OA, and is well tolerated.
+RI Laslett, Laura/G-3973-2011
+OI Laslett, Laura/0000-0002-4336-0095
+SN 0071-786X
+BN 978-3-0348-0828-6; 978-3-0348-0827-9
+PY 2014
+VL 68
+BP 277
+EP 291
+DI 10.1007/978-3-0348-0828-6_11
+D2 10.1007/978-3-0348-0828-6
+UT WOS:000340044900012
+PM 24941673
+ER
+
+PT S
+AU Cramer, C
+   Schonhoff, M
+AF Cramer, Cornelia
+   Schoenhoff, Monika
+BE Muller, M
+TI Ion Conduction in Solid Polyelectrolyte Complex Materials
+SO POLYELECTROLYTE COMPLEXES IN THE DISPERSED AND SOLID STATE I: PRINCIPLES
+   AND THEORY
+SE Advances in Polymer Science
+AB This chapter describes the progressmade in understanding themechanisms of ion conduction in polyelectrolyte complexes (PEC). Understanding of ion dynamics is based on frequency-dependent conductivity data obtained by impedance spectroscopy as a function of temperature, hydration, and composition. In most of the work, strong polyelectrolytes such as poly(alkali 4-styrene sulfonate) (AlkaliPSS) and poly(diallyldimethyl ammoniumchloride) (PDADMAC) are employed, forming complexes of type xAlkaliPSS (1 - x) PDADMAC. The dc conductivity is always determined by the alkali ions, which exhibit a size-dependent mobility. This holds even in PEC with an excess of PDADMAC. The ion dynamics and transport mechanisms are different in PDADMAC-rich and in NaPSS-rich PEC. We review the treatment of the frequency-dependent shape of conductivity spectra by scaling concepts and by models involving forward-backward hopping motions of small ions as well as localized motions of charges. Thus, many quantitative concepts established in other disordered ion conductors can be transferred to PEC. In addition to the well-known time-temperature superposition principle (TTSP), the novel concept of time-humidity superposition (THSP) was established for PEC and describes the dependence of ion dynamics on water content.
+RI Schonhoff, Monika/E-6935-2011
+OI Schonhoff, Monika/0000-0002-5299-783X
+SN 0065-3195
+BN 978-3-642-40734-5; 978-3-642-40733-8
+PY 2014
+VL 255
+BP 97
+EP 138
+DI 10.1007/12_2012_203
+D2 10.1007/978-3-642-40734-5
+UT WOS:000335194800004
+ER
+
+PT B
+AU Burke, RJ
+AF Burke, Ronald J.
+BE Biron, C
+   Burke, RJ
+   Cooper, CL
+TI Improving Individual and Organizational Health: Implementing and
+   Learning from Interventions
+SO CREATING HEALTHY WORKPLACES: STRESS REDUCTION, IMPROVED WELL-BEING, AND
+   ORGANIZATIONAL EFFECTIVENESS
+SE Psychological and Behavioural Aspects of Risk
+AB This introduction sets the stage for the chapters that follow. Factors that diminish or enhance levels of individual and organizational health are identified from the literature. A case is then made for the benefits of individual- and organizational-level interventions, although the evidence is mixed. Here we present a number of different interventions, efforts undertaken by researchers and organizations together, to improve the mental and physical health of employees through a number of different change initiatives. Some interventions target individuals and their attitudes and behaviours, others target workplace relationships, still others target work units and wider organizational features. Outcomes include various individual health and well-being outcomes such as levels of smoking, obesity, depression, elevated levels of blood pressure, accidents and workplace injuries, and absence and turnover. We identify factors associated with the success of these interventions (e.g. clear goals, top management commitment, employee participation) and indicate how interested individuals and organizations might proceed to develop worksite interventions on their own. These themes, and others, are addressed in more detail in the following contributions.
+BN 978-1-315-57460-8; 978-1-409-44310-0
+PY 2014
+BP 1
+EP 19
+UT WOS:000404387100002
+ER
+
+PT S
+AU Gaggioli, A
+   Cipresso, P
+   Serino, S
+   Riva, G
+AF Gaggioli, Andrea
+   Cipresso, Pietro
+   Serino, Silvia
+   Riva, Giuseppe
+BE Wiederhold, BK
+   Riva, G
+TI Psychophysiological Correlates of Flow During Daily Activities
+SO ANNUAL REVIEW OF CYBERTHERAPY AND TELEMEDICINE 2013: POSITIVE TECHNOLOGY
+   AND HEALTH ENGAGEMENT FOR HEALTHY LIVING AND ACTIVE AGEING
+SE Studies in Health Technology and Informatics
+AB Flow is an optimal experience characterized by the perception of high challenges and high skills, positive affect, complete absorption in the activity carried out and intrinsic motivation. Although much research has examined the psychological features of flow, little is known about its biological underpinnings. The present study aimed at contributing to this gap by investigating the psychophysiological correlates of flow experience during daily routines. To this end, 15 university students took part in an experience sampling study, in which they provided real-time information on daily activities and associated experience while cardiac activity was monitored. After seven days of observation, 32 flow events were identified among 10 participants. A multilevel regression analysis revealed a significant correlation between optimal experience and specific cardiovascular indexes. In particular, the experience of flow was associated with increased heart rate and increased LF/HF ratio, suggesting relative sympathetic enhancement. These findings are in line with those obtained by previous related studies and indicate the feasibility of investigating physiological correlates of subjective experience in ecological contexts.
+RI Serino, Silvia/K-5142-2016; Serino, Silvia/AAM-5297-2020
+OI Serino, Silvia/0000-0002-8422-1358; Serino, Silvia/0000-0002-8422-1358;
+   Cipresso, Pietro/0000-0002-0662-7678; Gaggioli,
+   Andrea/0000-0001-7818-7598
+SN 0926-9630
+EI 1879-8365
+BN 978-1-61499-282-0; 978-1-61499-281-3
+PY 2013
+VL 191
+BP 65
+EP 69
+DI 10.3233/978-1-61499-282-0-65
+UT WOS:000339053100012
+PM 23792845
+ER
+
+PT B
+AU Vamerali, T
+   Bandiera, M
+   Mosca, G
+AF Vamerali, Teotilo
+   Bandiera, Marianna
+   Mosca, Giuliano
+BE Mancuso, S
+TI Minirhizotrons in Modern Root Studies
+SO MEASURING ROOTS: AN UPDATED APPROACH
+AB In recent years, minirhizotrons have received increasing interest in field studies for characterising several biological processes, such as fine root production, root longevity, mycorrhization and parasitism, as collecting repeated video or digital images allows the fate of individual roots to be followed in time.
+   This review summarises recent technical improvements in root observation and imaging, comparing results from various construction materials and installation angles. Both glass and transparent acrylic or polycarbonate tubes have shown a relatively low influence on root behaviour; tilted tubes are preferred to vertically oriented ones, in order to avoid artefacts, and to horizontal ones, which involve considerable soil disturbance during positioning in their surroundings in the open field. Precise camera positioning systems and new high-resolution (600 DPI and more) digital sensors are currently replacing external-tracked tubes and analog sensors, enhancing image capturing and quality. This allows for frequent root observation throughout the plant cycle and seasons, required for accurate estimation of root dynamics.
+   Although manual and semi-automatic image analysis requires timing and tedious work, in the last few years minirhizotron systems have been increasingly used, thanks to fundamental advances in image analysis. The development of new algorithms for root detection and measurement in minirhizotron images has speeded up processing and research. The most interesting results in image analysis derive from the integration of luminance intensity- and geometry-based root vs. non-root classifiers. Discrepancies still remain between minirhizotron data and reference core sampling (root quantification) and carbon isotope methods (root turnover). Underestimation in root length mainly regards the top 0.3 m soil layer, and irreconcilable differences emerge between root life-span and root carbon residence time.
+   A critical point in minirhizotron studies is exact identification of root activity, and most of the previous work was based on manual or semi-automatic visual evaluation (e.g., root appearance/disappearance, colour, shrinking, blotting, cortex degradation). Natural root fluorescence under UV light is only a reliable feature of root activity in some plant species, but interesting perspectives are expected from visible and near-infrared spectral images. Roots of GFP-engineered (green fluorescent protein) plants can also be distinguished in mixed plant stands by specific camera adaptation (light wavelengths, filters).
+BN 978-3-642-22066-1
+PY 2012
+BP 341
+EP 361
+DI 10.1007/978-3-642-22067-8_17
+D2 10.1007/978-3-642-22067-8
+UT WOS:000301510400017
+ER
+
+PT B
+AU Krieger, N
+   Waterman, PD
+   Chen, JT
+   Subramanian, SV
+   Rehkopf, DH
+AF Krieger, Nancy
+   Waterman, Pamela D.
+   Chen, Jarvis T.
+   Subramanian, S. V.
+   Rehkopf, David H.
+BE Williams, RA
+TI Monitoring Socioeconomic Determinants for Healthcare Disparities: Tools
+   from the Public Health Disparities Geocoding Project
+SO HEALTHCARE DISPARITIES AT THE CROSSROADS WITH HEALTHCARE REFORM
+AB Adding insult to injury - This well-worn phrase redounds with new significance when considering healthcare disparities in the context of social inequalities in health. The very same social groups at greatest risk of being subjected to inadequate access to and unequal treatment in healthcare also endure the greatest risk of poor health status and premature mortality, reflecting the daily toll of discrimination, economic deprivation, political marginalization, and prioritization of economic gain over human needs (Smedley et al., Unequal treatment: confronting racial and ethnic disparities in health care. Committee on Understanding and Eliminating Racial and Ethnic Disparities in Health Care, Board on Health Sciences Policy, Institute of Medicine. Washington, DC: National Academy Press, 2003; Levy and Sidel (eds), Social injustice and public health. New York: Oxford University Press, 2006; Navarro and Muntaner (eds), Political and economic determinants of population health and well-being: controversies and developments. Amityville: Baywood, 2004). Greater need and lesser care nefariously combine to create even more onerous burdens of preventable suffering, for it is within the very same bodies that these injuries and insults are integrated and embodied (Krieger (ed), Embodying inequality: epidemiologic perspectives. Amityville, NY: Baywood Publishing Co., 2004).
+   To right these health wrongs, and to hold accountable the institutions, policies, and priorities that routinely permit or actively benefit from the everyday health inequities so evident within and across countries, data are essential. Information is needed on the magnitude of the problem, on who is most burdened by poor health and healthcare, and whether the disparities are shrinking or expanding. Not that these data can by themselves change anything. Rather, in the hands of those working for health equity, evidence of disparities in health status and healthcare is required to identify who is most harmed, who gains, and what actions need to be taken, by which groups, to make a change for the better.
+   The connections between social determinants of health, health status inequities, and healthcare disparities would seem obvious. After all, our bodies readily make the connections each and every day (Krieger, Embodying inequality: epidemiologic perspectives. Amityville, NY: Baywood Publishing Co., 2004; Krieger, Epidemiol Community Health 59:350-5, 2005; Krieger and Davey Smith, Epidemiol Rev 26:92-103, 2004). Yet, in the United States, we confront a major obstacle to counting for accountability: the lack of routinely available good data on the magnitude of socioeconomic inequities in health status and healthcare, overall and in relation to diverse forms of social inequality variously involving racism, gender, sexuality, age, nativity, and immigration status (Krieger et al., Public Health Rep 112:481-91, 1997; Friedman et al. (eds), Shaping a vision of health statistics for the 21st century, 2002; National Healthcare Disparities Report, 2005; Ver Ploeg and Perrin (eds), Eliminating health disparities: measurement and data needs. Panel on DHHS collection of race and ethnicity data. Washington, DC: National Academies Press, 2004).
+   Although hospital records and public health data systems almost always include data on age and sex (typically construed as biological variables only), numerous reports have documented the poor quality and spottiness of data on race/ethnicity, the paucity if not total absence of socioeconomic information, and the invisibility of data on immigrant status and sexuality (Krieger et al., Public Health Rep 112:481-91, 1997; Friedman et al. (eds), Shaping a vision of health statistics for the 21st century. Washington, DC: Department of Health and Human Services Data Council, Centers for Disease Control and Prevention, National Center for Health Statistics, and National Committee on Vital and Health Statistics, 2002. http://www.ncvhs.hhs.gov/hsvision/. Accessed 3 May 2006; National Healthcare Disparities Report. Rockville: Agency for Healthcare Research and Quality, 2005. http://www.ahrq.gov/qual/nhdr05/nhdr05.htm. Accessed 3 May 2006; Ver Ploeg and Perrin (eds), Eliminating health disparities: measurement and data needs. Panel on DHHS collection of race and ethnicity data. Washington, DC: National Academies Press, 2004). These gaps in the data are not accidental, even if they might not be willful. Instead, they reflect the priorities and frameworks (conscious and unconscious) of the groups who design and implement the data systems (Krieger et al., Public Health Rep 112:481-91, 1997; Desrosieres, The politics of large numbers: a history of statistical reasoning (Transl. Camille Naish). Cambridge: Harvard University Press, 1998; Friedman et al. (eds), Health statistics: shaping policy and practice to improve the public's health. Oxford: Oxford University Press, 2005; Krieger, J Epidemiol Community Health 58:632-3, 2004). Often these data gaps can be explained by the time-disgraced ruse of "no data, no problem"; however, also at play are the vulnerabilities of those who may be targeted for discrimination if they provide information on aspects of their subjugated social position (Ver Ploeg and Perrin (eds), Eliminating health disparities: measurement and data needs. Panel on DHHS collection of race and ethnicity data. Washington, DC: National Academies Press, 2004; Krieger, J Public Health Policy 13:412-27, 1992; Krieger, J Epidemiol Community Health 58:632-3, 2004).
+   In this chapter, our focus on the lack of socioeconomic data in most US medical records and public health surveillance systems (Krieger et al., Public Health Rep 112:481-91, 1997; Friedman et al. (eds), Shaping a vision of health statistics for the 21st century. Washington, DC: Department of Health and Human Services Data Council, Centers for Disease Control and Prevention, National Center for Health Statistics, and National Committee on Vital and Health Statistics, 2002. http://www.ncvhs.hhs.gov/hsvision/. Accessed 3 May 2006; National Healthcare Disparities Report. Rockville: Agency for Healthcare Research and Quality, 2005. http://www.ahrq.gov/qual/nhdr05/nhdr05.htm. Accessed 3 May 2006; Ver Ploeg and Perrin (eds), Eliminating health disparities: measurement and data needs. Panel on DHHS collection of race and ethnicity data. Washington, DC: National Academies Press, 2004) in no way discounts the importance of discrimination - whether in relation to race/ethnicity, gender, sexuality, age, immigrant status, and so on, and within and across socioeconomic strata - in shaping population health (Krieger, Embodying inequality: epidemiologic perspectives. Amityville, NY: Baywood Publishing Co., 2004; Krieger et al., Am J Prey Med 9:82-122, 1993). However, in a context of an all-too-long misguided legacy of interpreting health disparities in these other dimensions as a function of allegedly innate biology, rather than social inequity (Smedley et al., Unequal treatment: confronting racial and ethnic disparities in health care. Committee on Understanding and Eliminating Racial and Ethnic Disparities in Health Care, Board on Health Sciences Policy, Institute of Medicine. Washington, DC: National Academy Press, 2003; Levy and Sidel (eds), Social injustice and public health. New York: Oxford University Press, 2006; Navarro and Muntaner (eds), Political and economic determinants of population health and well-being: controversies and developments. Amityville: Baywood, 2004; Krieger (ed), Embodying inequality: epiclemiologic perspectives. Amityville, NY: Baywood Publishing Co., 2004; Desrosieres, The politics of large numbers: a history of statistical reasoning (Transl. Camille Naish). Cambridge: Harvard University Press, 1998; Friedman et al. (eds), Health statistics: shaping policy and Practice to improve the public's health. Oxford: Oxford University Press, 2005; Krieger, J Public Health Policy 13:412-27, 1992; Krieger, J Epidemiol Community Health 58:632-3, 2004; Krieger et al., Am J Prey Med 9:82-122, 1993; Krieger and Fee, Int J Health Serv 26:391-418, 1996; Chase, The legacy of Malthus: the social costs of the new scientific racism. New York: Knopf, 1977), it is essential to show the extent to which socioeconomic resources (themselves reflecting the impact of past and present discrimination) are associated with health status and healthcare disparities within and between these different social groups, as well as within the population as a whole. Bringing socioeconomic position into the picture is thus one of several critical steps needed to confront naive causal narratives of "health differences" premised on biological or cultural determinism. The challenge is both conceptual and empirical. It is in this spirit that the ideas and tools of the Public Health Disparities Geocoding Project are presented (Krieger et al., Geocoding and monitoring US socioeconomic inequalities in health: an introduction to using area-based socioeconomic measures The Public Health Disparities Geocoding Project monograph. Boston: Harvard School of Public Health.
+   http//www.hsph.harvard.edu/ thegeocoding-project/. Accessed 3 May 2006; Krieger et al., Am J Public Health 95:312-23, 2005; Krieger et al., Am J Public Health 93:1655-71, 2003; Krieger et al., Public Health Rep 118:240-60, 2003; Krieger et al., J Epidemiol Community Health 57:186-99, 2003; Krieger et al., Am J Epidemiol 156:471-82, 2002; Krieger et al., Am J Public Health 92:1100-2, 2002; Krieger et al., Am J Public Health 91:1114-16, 2001; Krieger et al., Neighborhoods and health (Kawachi and Berkman eds). New York: Oxford University Press, 147-78, 2003; Subramanian et al., Am J Public Health 95:260-5, 2005; Subramanian et al., Am J Epidemiol 164:823-34, 2006; Rehkopf et al., Am J Public Health 96:2135-8, 2006).
+BN 978-1-4419-7135-7
+PY 2011
+BP 269
+EP 312
+DI 10.1007/978-1-4419-7136-4_15
+D2 10.1007/978-1-4419-7136-4
+UT WOS:000289865100015
+ER
+
+PT B
+AU Stylianou-Georgiou, A
+   Papanastasiou, E
+   Puntambekar, S
+AF Stylianou-Georgiou, Agni
+   Papanastasiou, Elena
+   Puntambekar, Sadhana
+BE Puntambekar, S
+   Erkens, G
+   HmeloSilver, CE
+TI Analyzing Collaborative Processes and Learning from Hypertext Through
+   Hierarchical Linear Modelling
+SO ANALYZING INTERACTIONS IN CSCL: METHODS, APPROACHES AND ISSUES
+SE Computer-Supported Collaborative Learning
+AB The purpose of this study was to investigate whether supporting sixth grade students to monitor and regulate their group navigation behavior while reading from hypertext would lead to a rich understanding of domain knowledge. Metanavigation support in the form of prompts was provided to groups of students who collaboratively used a hypertext system called CoMPASS to complete a design challenge. Multilevel analysis techniques were used to understand how the provision of metanavigation support to groups interact with group navigation behavior and learner's metacognitive awareness of reading strategies to affect individual learning. The findings of this study revealed that providing metanavigation support to the groups contributed positively in enabling students to gain a rich understanding of domain knowledge. Our findings also indicate that there was a significant negative interaction of students' metacognitive awareness and perceived use of reading strategies and the presence of metanavigation support while interacting with hypertext.
+RI Papanastasiou, Elena C/C-5795-2012
+BN 978-1-4419-7709-0
+PY 2011
+BP 145
+EP 159
+DI 10.1007/978-1-4419-7710-6_7
+D2 10.1007/978-1-4419-7710-6
+UT WOS:000286903900007
+ER
+
+PT S
+AU Loo, C
+   Greenberg, B
+   Mitchell, P
+AF Loo, Colleen
+   Greenberg, Benjamin
+   Mitchell, Philip
+BE Manji, HK
+   Zarate, CA
+TI Nonpharmacotherapeutic Somatic Treatments for Bipolar Disorder (ECT,
+   DBS, rTMS)
+SO BEHAVIORAL NEUROBIOLOGY OF BIPOLAR DISORDER AND ITS TREATMENT
+SE Current Topics in Behavioral Neurosciences
+AB Nonpharmacotherapeutic, somatic treatments play an essential role in the management of bipolar disorder (BPD) Studies indicate that electroconvulsive therapy (ECT) is an effective treatment for acute mania, bipolar depression, and mixed affective states Furthermore, it is an important second-line treatment option, as most pharmacotherapy-resistant patients respond to ECT Specific challenges for patients with BPD receiving ECT include the risk of mood switching, and the need to evaluate and manage concurrent treatment with lithium and anticonvulsant mood stabilizers Although the current evidence for alternative and newer physical treatments (e g, transcranial magnetic stimulation, vagus nerve stimulation, stereotactic ablation, and deep brain stimulation) is preliminary, all of these novel methods show promising potential and merit further research
+OI Loo, Colleen/0000-0003-3267-0554; Mitchell, Philip/0000-0002-7954-5235
+SN 1866-3370
+BN 978-3-642-15756-1
+PY 2011
+VL 5
+BP 285
+EP 302
+DI 10.1007/7854_2010_69
+D2 10.1007/978-3-642-15757-8
+UT WOS:000284977600016
+PM 25236561
+ER
+
+PT S
+AU Li, SX
+   Wang, ZH
+   Stewart, BA
+AF Li, Sheng-Xiu
+   Wang, Zhao-Hui
+   Stewart, Bobby Alton
+BE Sparks, DL
+TI DIFFERENCES OF SOME LEGUMINOUS AND NONLEGUMINOUS CROPS IN UTILIZATION OF
+   SOIL PHOSPHORUS AND RESPONSES TO PHOSPHATE FERTILIZERS
+SO ADVANCES IN AGRONOMY, VOL 110
+SE Advances in Agronomy
+AB As a vital component of a number of macromolecules and an integral part of energy metabolism and major biological processes in photosynthesis, respiration, and membrane transportation, as well as playing a genetic role through ribonucleic acid and energy transfers via adenosine triphosphate, phosphorous is indispensable for all life forms and cannot be substituted by any other element. Being the life-limiting element in natural ecosystems, regular inputs of P fertilizer to replenish the P removed from the soil by crops are one of the characteristics of modern agriculture. The demand for P resources will outstrip supply in the coming decades because the global commercial phosphate reserves may be depleted in another 60-130 years. In addition, rock phosphate (RP) reserves are under the control of a few countries. The P recovery rate is very low and the surpluses of P in soil have produced variable responses of crops to P fertilizers and environmental pollution. Requirements for direct application of RP and improvement of P fertilizer efficiency have led to adoption of specific plant species. Since leguminous crops in general respond better to P fertilizer than cereals, some scientists have proposed the application of P to leguminous crops as the first priority. Many hypotheses have been proposed to explain the different responses to P fertilizer between the two types of crops, but most of them have not been substantiated. A series of experiments have been conducted by us on different aspects for more than 40 years, and this chapter reviews the current investigation status and reports our viewpoints based on results obtained mainly from wheat [Triticum aestivum (L.) em. Thell] pea (Pisum sativum L.), maize (Zea mays L.), and soybean [Glycine max (L.) Merr.]
+   One reason for the different response to P fertilizer supposes that legumes require more P than nonlegumes. A long-term experiment in a maize-maize-soybean rotation sequence in which maize and soybean were grown in the same season with almost the same duration of growing period showed that the total P uptake by soybean from unit area was similar to that of maize and in some cases uptake by maize was higher than that by soybean. Results of pot and field experiments conducted by us showed that P uptake amount by leguminous crops was not higher than that by cereal crops, and wheat had a higher capacity to use soil P than do pea and vetch. Without application of N fertilizer, P amounts taken up by legumes were equal to or slightly higher than those of nonlegumes, while cereal crops with N application took up much more P than legumes in most cases either with or without application of P fertilizer.
+   In calcareous soil, the P availability in P-containing minerals is roughly equal to that in RPs. Some agricultural scientists have used RPs as substitutes to test the crops' ability of using P from soil. Results show that in addition to the physical and chemical properties of RPs and soil pH, some plant species such as rapeseed (Brassica campestris L. and Brassica napus L.), radish (Raphanus sativus L.), and some legumes possess strong abilities in absorbing P from RPs in acid soils, and good responses of rapeseed to the RPs were also found in calcareous soils. However, there were some debatable issues in these studies: comparisons were made not in the same field but in different locations; excessive rates of RPs were used and the available P in the RPs extracted by 2% citric acid was closely correlated with crops' yield increase; only rapeseed was used for comparison; soils in which yield increase by RPs was several times higher than the control and even higher than superphosphate were particularly unique and had strong responses to calcium carbonate and thus there was no way to separate the effect of P and calcium carbonate contained in RPs; and some results were conflicting. A series of pot and field experiments were conducted by us in two calcareous soils using six crops planted in spring and autumn for both pot and field trials with sufficient N supply. Results showed that crops significantly responded to single superphosphate, while the effect of RPs was seen only at high rates of application. Comprehensive comparisons of the yield increase in absolute amount and in percentage of the control showed that there was almost no difference between legumes and nonlegumes used in our experiments in responses to the RPs. Again, for any crop, the response to RPs was closely related to the citric-acid-soluble P (P2O5) in RPs.
+   Since the P concentration in soil solution is very dilute, the movement of P in soil takes place mainly by diffusion, the diffusion coefficient is very low, and the distance moved is very short, and many scientists hold the view that plant roots play a great role in ensuring sufficient P supply to crops and the different responses are attributed to their root characteristics. Our results indicated that wheat had better developed roots, while pea roots had a higher function in supporting shoots. For a single plant, the total root-absorbing and actively absorbing area of pea was larger than that of wheat, but in one unit volume of soil, root dry weight of wheat was 33% higher than that of pea. The root activities in terms of the 2,3,5-triphenyltetrazolium chloride (TTC) reductive amount and intensity were higher for pea than for wheat. All these root properties could not explain the different responses to P fertilizer between legumes and nonlegumes.
+   Many soil microorganisms are able to transform insoluble forms of P to an accessible soluble form and are regarded as plant growth-promoting micro-organisms (PGPM). However, there is no evidence showing their release of P to legumes and nonlegumes, and the very limited knowledge has restrained us from continuing further discussion.
+   Of the hypotheses proposed for explaining the difference of crops in utilizing sparingly soluble P in the soil and their responses to P fertilizer, the most common view is the reduction of rhizosphere pH resulting from the release of protons and organic acids. Our experiments showed that pH in rhizospheric soil was generally one unit lower than that in the bulk soil, but there was no difference in pH between wheat and pea either in rhizospheric or in bulk soil. The available P had the same trend as soil pH. Clearly, the acidification of rhizosphere soil could not differentiate the ability of crops to respond to P fertilizer.
+   The cation exchange capacity (CEC) of plant roots was once considered the basis for crops to exchange cations with those held in soil colloids, and crops with a high root CEC could take up more calcium from soil and thus liberate P bound with calcium for crop use. Our study with wheat and pea showed that the root CEC of pea was several times higher than that of wheat in terms of per kilogram dry root or root weight per pot. However, the P uptake amounts by the two crops did not follow the same pattern as the CEC. In relation with root CEC, crop uptake of the calcium was considered a mechanism for P release, and the ratio of CaO to P2O5 in plant tissue was proposed as an index of the plant's ability for absorbing P from RPs. However, later researchers have rejected this hypothesis.
+   A series of experiments have shown that the sensitive responses of legumes to P fertilizer are related to their N fixation capacity. These have been evidenced by many facts.
+   It was not always the case that legumes had good responses to P fertilizer; it was true only in a soil deficient in both N and P nutrients. In a soil with sufficient N supply, the difference in P fertilizer response vanished, and the response by cereal crops was even better than by legumes.
+   Addition of N fertilizer to cereal crops significantly increased the P fertilizer effect. In a soil extremely deficient in N and P supply, maize with N addition absorbed almost the same amount of P from the soil as soybean. Without application of N, P uptake by pea was 33% higher than that of wheat, but when fertilized with N there was no difference in the amount of P uptake for the two crops. Also, in a soil deficient in N and P supply, application of N fertilizer to cereal crops and no N or a small amount of N to legumes often resulted in much better responses of cereal crops to P fertilizer. This shows that the sensitivity of legume response to P fertilizer is related to its N fixation.
+   Experiments showed that, before pea acquired the ability to fix N, the biomass increase and P uptake amount were much lower than for wheat, but after reaching the stage for fixing N, pea took up much more P than wheat. This reveals that N fixation increased the amount of P uptake of legumes.
+   Application of N fertilizer to pea to depress N fixation and not adding N fertilizer to wheat resulted in almost the same amount of P uptake by the two crops. In contrast, application of N to wheat led to more P uptake than in the case of pea. The same trend was found for maize and soybean.
+   A layer of soil in which soybean had been grown previously had no nodules and such a soil layer was sampled for conducting a pot experiment with maize and soybean. Maize was given two treatments, i.e., with and without P fertilization, whereas soybean was treated with inoculation and without inoculation on both P treatments. Results showed that in both cases with and without P fertilizer, there was almost no difference in P uptake. However, when soybean was inoculated, the P uptake amount and dry matter increase by P addition were much larger than in maize and soybean that was not inoculated. This clearly indicates the importance of N fixation in leguminous crops to respond to P fertilizers.
+   The responses of cereal crops to P fertilizer are mainly determined by the available P in the soil, and this is true also for leguminous crops. Eight plants grown in five soils in a pot experiment showed that organic matter, total N, total P, soil CaCO3 contents, and available N in the soil are not related to the P fertilizer effect, but the P available as determined either by the Olsen (available P extracted by 0.5 mol l(-1) NaHCO3 solution) or the Machigin method (a Russian method of extracting available P by 1% (NH4)(2)CO3 solution) is closely correlated with the crop response to P fertilizer. Field experiments confirmed these results. Application of N fertilizer is beneficial to P fertilization for cereal crops but detrimental to leguminous crops especially when soil mineral N is abundant. The negative effect of N fertilization on the response of leguminous crops to P fertilizer is mainly caused by the reduction of nodule formation and inhibition of root length, and thereby the elimination of the superiority of leguminous crops, leading to low productivity. Since yields of leguminous crops are lower than cereal crops, the P rate for pea can be reduced at least by 20% as compared to wheat.
+   A series of field experiments have further shown that responses to P fertilizer by legume crops were determined by the soil-available P, as was also the case for cereal crops. In a soil having low available P, P fertilization significantly increased pea yield, and the absolute amount of the increase was almost the same as for wheat, but the percentage of increase was higher than that of wheat due to the low yield in the pea control treatment. At a medium level of soil-available P, pea still had good response to P fertilizer, while wheat had almost no response without application of N fertilizer. Wheat became more and more responsive to P fertilizer with N rate increase, but pea became less responsive. This shows that N was the major constraint limiting wheat response to P fertilizer, and addition of N fertilizer could improve its response to P fertilizer. In a soil with high available P, both pea and wheat had no response to P fertilizer no matter whether N was added or not and no matter what the rate of added N was. Such typical results show that, although leguminous crops need a smaller rate of P fertilizer, their response to soil-available P level is almost the same as for cereal crops. The availability index for the application of P fertilizer to cereal crops could be applicable for leguminous crops as well.
+   To sum up, the different responses of legumes and nonlegumes to P fertilizer are caused neither by the difference of P uptake amount nor by the root characteristics such as root biomass, root surface area, root activity, root exudates, root CEC, and CaO/P2O5 ratio in plant tissues, but by the N fixation of leguminous crops. In a soil deficient in both N and P, the application of P fertilizer alone, the leguminous crops' responses to P fertilizer have not been restricted by N limitation, the P fertilizer can fully play its role and therefore the effect of P fertilizer to leguminous crops is much better than that to cereal crops. However, when N supply is sufficient, it is another story for nonleguminous crops. With sufficient N supplies, cereal crops have better responses to P fertilizer than leguminous crops. Responses to P fertilizers are determined by the available soil P levels for both legumes and nonlegumes.
+SN 0065-2113
+BN 978-0-12-385531-2
+PY 2011
+VL 110
+BP 125
+EP 249
+DI 10.1016/B978-0-12-385531-2.00003-7
+UT WOS:000287331100003
+ER
+
+PT S
+AU Aiello, T
+   Severt, D
+   Rompf, P
+   Breiter, D
+AF Aiello, Taryn
+   Severt, Denver
+   Rompf, Paul
+   Breiter, Deborah
+BE Chen, JS
+TI A FUNDAMENTAL EXPLORATION OF ADMINISTRATIVE VIEWS OF HOSPITAL
+   HOSPITALITY AND SERVICE EXCELLENCE
+SO ADVANCES IN HOSPITALITY AND LEISURE, VOL 6
+SE Advances in Hospitality and Leisure
+AB This study investigates service excellence and hospitality perceptions in a hospital setting for an exploratory study of the familiarity of hospital administration with the topic of hospitality and service excellence. It is unique from other hospitality and service research in that it considers hospitality and service excellence as separate concepts, and specifically considers hospitality, such as service excellence, as a philosophy that may be transcend its traditional industries of origin. Part of the premise of this study explores how hospitality in a healthcare setting extends past service excellence in offering a service to a patient to create a comfortable and welcoming environment to combat patient anxiety and stress. This exploratory research provides a necessary foundation for more extensive empirical testing of the premise.
+   Using a qualitative case study, this research measured top management's perceptions of service excellence and hospitality within one community-based hospital located in Orlando, Florida. Three conclusions were revealed: (1) a mixed commitment by top management to concepts of service excellence and hospitality, (2) the terms "service excellence" and "hospitality" were generally discussed as though they were equivalent, and (3) significant external and internal barriers to the delivery of service excellence and hospitality in the hospital setting were identified.
+   The study has implications for healthcare organizations seeking to implement practices of hospitality and service management to improve overall healthcare service delivery. Additionally, the study of hospitality outside of its traditional industry boundaries may result in the generation of new improvement options/opportunities for traditional managers of hospitality businesses and organizational researchers. The study can be used as a foundation for the formulation of additional studies in the area of service excellence and hospitality applied to other layers in an organization irrespective of industry setting.
+SN 1745-3542
+BN 978-1-84950-718-9
+PY 2010
+VL 6
+BP 185
+EP 211
+DI 10.1108/S1745-3542(2010)0000006014
+UT WOS:000300161100010
+ER
+
+PT S
+AU Bellon, P
+AF Bellon, P.
+BE Bernas, H
+TI Precipitate and Microstructural Stability in Alloys Subjected to
+   Sustained Irradiation
+SO MATERIALS SCIENCE WITH ION BEAMS
+SE Topics in Applied Physics
+AB The sustained irradiation of a material by energetic particles leads to the continuous production of damage in the form of point defects, point-defect clusters, and forced atomic relocations, as reviewed in Chap. 1. These elementary processes lead to an acceleration of thermally activated diffusion owing to point-defect supersaturation, as well as a forced mixing of chemical species due to atomic replacements. In materials with precipitates or ordered phases, this forced mixing alone would lead to dissolution and chemical disordering, respectively. At high enough temperatures, however, these dynamical processes compete with thermally activated diffusion, which tends to restore an equilibrium state. The outcome of this competition depends of course on the relative intensity, or rates, of these processes, but also oil their characteristic length scales. We review in some detail the evolution of preexisting precipitates under irradiation to illustrate the complex material's response to these dynamical processes, including the potential self-organization of the microstructure. Similar effects are anticipated in materials undergoing order-disorder transformations. In addition, the kinetic coupling between point defects and chemical fluxes can lead to radiation-induced segregation and precipitation. Finally, we discuss the contribution of point-defect evolution to microstructural changes, which can produce dimensional changes and alter mechanical properties.
+SN 0303-4216
+BN 978-3-540-88788-1
+PY 2010
+VL 116
+BP 29
+EP 52
+DI 10.1007/978-3-540-88789-8_2
+D2 10.1007/978-3-540-88789-8
+UT WOS:000271196500002
+ER
+
+PT B
+AU Shannon, L
+   Coll, M
+   Neira, S
+   Cury, P
+   Roux, JP
+AF Shannon, Lynne
+   Coll, Marta
+   Neira, Sergio
+   Cury, Philippe
+   Roux, Jean-Paul
+BE Checkley, DM
+   Alheit, J
+   Oozeki, Y
+   Roy, C
+TI Impacts of fishing and climate change explored using trophic models
+SO CLIMATE CHANGE AND SMALL PELAGIC FISH
+AB Small pelagic fish are termed "wasp-waist" species as they dominate mid trophic levels and comprise relatively few species but attain large abundances that can vary drastically in size. They have been found to exert top-down control on their prey species and bottom-up control on their predators and, in this way, appear to induce unsuspected ecosystem dynamics. Largely based on model results, this chapter explores these effects and associated dynamics, not only illustrating the importance of small pelagic fish in structuring marine ecosystems, but also revealing the consistency of the role of small pelagic fish across various upwelling systems in which they play key roles. The Northern and Southern Benguela, Southern Humboldt, South Catalan Sea and North and Central Adriatic Sea ecosystems are compared in terms of the importance and role of small pelagic fish using information gained from landings and ecological models. Trophic level of the catch, the Fishing-in-Balance (FiB) index and the ratio of pelagic:demersal fish are calculated from reported landings. Sums of all flows to detritus are compared across modelled ecosystems. Models of the Southern Benguela, Southern Humboldt and South Catalan Sea are used to perform two simulations: (1) closure of fisheries on small pelagic fish and (2) collapse of small pelagic fish stocks, to further explore the roles of small pelagic fish in the dynamics of these ecosystems.
+   Tracking pelagic:demersal fish catch and biomass ratios over time is a means of detecting collapses in the small pelagic fish stocks, and comparing these ratios across ecosystems highlights the greater importance of small pelagic fish in the Humboldt compared to other ecosystems. The trophic level of the catch has strongly increased in the Northern Benguela and Southern Humboldt ecosystems, reflecting collapses in small pelagic and/or other fisheries in these regions in recent years. In the Mediterranean Sea, fluctuations in trophic level of the catch, in conjunction with the FiB index, reflects the collapse of small pelagic fish and disruption of the ecosystems. Models analyzed in this study show how a decrease in small pelagic fish abundance will have detrimental effects on both higher and lower trophic levels of the food web, causing a decrease in predators and the proliferation of other species that are prey or competitors of small pelagic fish, but which do not constitute an alternative pathway for the flow of primary productivity to higher trophic levels. Trophic model simulations consistently suggested that gelatinous zooplankton may increase when small pelagic fish stocks decline and, conversely, a decrease in jellyfish abundance may be expected if pelagic fisheries were to be closed, in agreement with circumstantial evidence for some systems. Simulations of small pelagic fishery collapses in the southern Benguela, Southern Humboldt, and South Catalan Sea all emphasize the dependency of avian, and to a lesser extent more opportunistic mammalian and fish predators on healthy stocks of small pelagic fish. In general, collapses of small pelagic fish seem to disrupt energy flows, which could result in an increase in flows to detritus, demersal processes within the system becoming more important, stronger overall mixed trophic interactions of the pelagic component on the demersal component in more recent periods (usually when fishing has increased), and often reduced summed impacts of the demersal compartment on the degraded pelagic food web. Examination of summed mixed trophic impacts of detritus on both the pelagic and demersal food webs further supported the hypothesis that detritus becomes increasingly more important as ecosystems are fished and/or degraded. The chapter draws on model results to reveal the ecological role of small pelagic fish within the ecosystem, and to examine how extreme changes in the abundance of small pelagic fish stocks might impact ecosystems. These changes are modeled by examining altered fishing effects using available trophic models, but could similarly be climatically driven. Given the pivotal ecological role of small pelagics in ecosystems, climate change is likely to express itself in the ecosystem via its impacts on small pelagic fish. However, precisely how climate change will be likely to affect abundance, life history, and the spatial distribution of small pelagics (and the food webs they dominate) still requires further study in terms of the mechanisms and processes involved.
+RI Shannon, Lynne J/A-1612-2015; Coll, Marta/A-9488-2012
+OI Shannon, Lynne J/0000-0001-7842-0636; Coll, Marta/0000-0001-6235-5868
+BN 978-0-521-88482-2
+PY 2009
+BP 158
+EP 190
+UT WOS:000313446500010
+ER
+
+PT B
+AU Gregoire, C
+   Elsaesser, D
+   Huguenot, D
+   Lange, J
+   Lebeau, T
+   Merli, A
+   Mose, R
+   Passeport, E
+   Payraudeau, S
+   Schuetz, T
+   Schulz, R
+   Tapia-Padilla, G
+   Tournebize, J
+   Trevisan, M
+   Wanko, A
+AF Gregoire, Caroline
+   Elsaesser, David
+   Huguenot, David
+   Lange, Jens
+   Lebeau, Thierry
+   Merli, Annalisa
+   Mose, Robert
+   Passeport, Elodie
+   Payraudeau, Sylvain
+   Schuetz, Tobias
+   Schulz, Ralf
+   Tapia-Padilla, Gabriela
+   Tournebize, Julien
+   Trevisan, Marco
+   Wanko, Adrien
+BE Lichtfouse, E
+TI Mitigation of Agricultural Nonpoint-Source Pesticide Pollution in
+   Artificial Wetland Ecosystems - A Review
+SO CLIMATE CHANGE, INTERCROPPING, PEST CONTROL AND BENEFICIAL
+   MICROORGANISMS
+AB Contamination caused by pesticides in agriculture is a source of poor environmental water quality in some of the European Union countries. Without treatment or targeted mitigation, this pollution is diffused in the environment. Pesticides and their metabolites are of increasing concern because of their potential impacts on the environment, wildlife and human health. Within the context of the European Union (EU) Water Framework Directive and to promote low-pesticide-input farming and best management practices, the EU LIFE project ArtWET assessed the efficiency of ecological bioengineering methods using different artificial wetland (AW) prototypes throughout Europe. We optimized physical and biological processes to mitigate agricultural nonpoint-source pesticide pollution in AW ecosystems. Mitigation solutions were implemented at full-scale demonstration and experimental sites. We tested various bioremediation methods at seven experimental sites. These sites involved (1) experimental prototypes, such as vegetated ditches, a forest microcosm and 12 wetland mesocosms, and (2) demonstration prototypes, such as vegetated ditches, three detention ponds enhanced with technology of constructed wetlands, an outdoor bioreactor and a biomassbed. This set-up provides a variety of hydrologic conditions, with some systems permanently flooded and others temporarily flooded. It also allowed to study processes both in field and controlled conditions. In order to compare the efficiency of the wetlands, mass balances at the inlet and outlet of the AW will be used, taking into account the partitioning of the studied compound in water, sediments, plants and suspended solids. The literature background necessary to harmonize the interdisciplinary work is reviewed here and the theoretical framework regarding pesticide removal mechanisms in AWs is discussed. The development and the implementation of innovative approaches concerning various water quality sampling strategies for pesticide load estimates during flood, specific biological endpoints, innovative bioprocesses applied to herbicide and copper mitigation to enhance the pesticide retention time within the AW modelling the transport and the fate of pesticides using a 2D mixed hybrid finite element model are introduced. These future results will be useful to optimize hydraulic functioning, e.g. pesticide resident time, and biogeochemical conditions, e.g. dissipation, inside the AWs. Hydraulic retention times are generally too low to allow an optimized adsorption on sediment and organic materials accumulated in AWs. Absorption by plants is also not effective (VanBeinum et al., 2006). The control of the hydraulic design and the use of adsorbing materials can be useful to increase the pesticide's residence time and the contact between pesticides and biocatalyzers. Pesticide fluxes can be reduced by 50-80% when hydraulic pathways in AWs are optimized by increasing ten times the retention time, by recirculation of water, and by deceleration of the flow. Thus, using a bioremediation method should lead to an almost complete disappearance of pesticide pollution. To retain and to treat agricultural nonpoint-source pollution at the upstream of the hydrosystems form a part of the management of the environmental activities and thus represents a major stake for a sustainable development.
+RI TOURNEBIZE, Julien/C-6620-2008; Tapia-Padilla, Gabriela/L-3328-2016;
+   Payraudeau, Sylvain/M-2051-2019
+OI Tapia-Padilla, Gabriela/0000-0002-3097-9980; Payraudeau,
+   Sylvain/0000-0003-2546-7857
+BN 978-90-481-2715-3
+PY 2009
+BP 293
+EP 338
+DI 10.1007/978-90-481-2716-0_11
+D2 10.1007/978-90-481-2716-0
+UT WOS:000271246800011
+ER
+
+PT B
+AU Pottiez, O
+   Ibarra-Escamilla, B
+   Kuzin, EA
+AF Pottiez, Olivier
+   Ibarra-Escamilla, Baldemar
+   Kuzin, Evgeny A.
+BE Halsey, D
+   Raynor, W
+TI FIBER NONLINEAR OPTICAL LOOP MIRROR WITH POLARIZATION CONTROL FOR
+   ULTRAFAST ALL-OPTICAL SIGNAL PROCESSING
+SO HANDBOOK OF INTERFEROMETERS: RESEARCH, TECHNOLOGY AND APPLICATIONS
+AB As optical transmission systems operating at 40 Gbits/s or beyond are being developed, there is an increasing demand on devices capable of handling signals at ultrahigh speeds. Operations such as switching, regeneration, (de-)multiplexing, wavelength conversion or signal monitoring can be performed with virtually no speed limit by exploiting the femtosecond response time of nonlinear effects in optical fibers.
+   In particular, the nonlinear Sagnac interferometer, or Nonlinear Optical Loop Mirror (NOLM), which exploits the Kerr effect, is a good candidate to achieve these tasks. In conventional NOLM designs, switching requires a power imbalance between the counter-propagating beams in the loop. Such devices invariably exhibit a sinusoidal power transfer characteristic. From empirical observation, it appeared that a birefringence element in the loop can be used to modify the phase bias of the transfer function, which allows fitting the switching characteristic to a particular application. In contrast, other parameters like switching power, dynamic range or shape of the characteristic are typically fixed by construction, and can hardly be adjusted. Polarization is usually not controlled in these devices, and the fiber residual birefringence is quite sensitive to environmental perturbations. In spite of this, it turns out that these designs have been operating well until now for most applications.
+   As data rates scale up to 40 Gb/s and 160 Gb/s, however, enhanced stability and flexibility of the switching characteristic become necessary. These properties can be obtained through controlling the light polarization in the interferometer. In this work, we discuss the benefits of controlling light polarization in a NOLM. Theoretical, numerical and experimental results are presented. If a polarization asymmetry is implemented, switching is permitted by nonlinear polarization rotation, and power asymmetry, which degrades NOLM performances, is no longer needed. By generating circular birefringence in the fiber through twist, the environmental sensitivity of the device is strongly reduced, although polarization can still be freely adjusted. Recent advances are presented on the study of a novel NOLM architecture in which the control of the input polarization state and of a birefringent element allows to adjust the phase bias, switching power and dynamic range of the transfer characteristic, which can adopt non-sinusoidal shapes. With additional polarization selection at the NOLM output, flat-topped switching characteristics are obtained, which are attractive for all-optical regeneration, among other applications. Finally, all-fiber devices based on this scheme can be developed to produce step-like transfer functions, with potential applications in ultrafast all-optical computing.
+RI Ibarra-Escamilla, Baldemar/C-8753-2018; Pottiez, Olivier/AAY-4406-2020
+OI Ibarra-Escamilla, Baldemar/0000-0002-2981-2366; Pottiez,
+   Olivier/0000-0002-5684-9439
+BN 978-1-60741-050-8
+PY 2009
+BP 393
+EP 426
+UT WOS:000275620800010
+ER
+
+PT B
+AU Francks, C
+AF Francks, Clyde
+BE Sommer, IEC
+   Kahn, RS
+TI LRRTM1: a maternally suppressed genetic effect on handedness and
+   schizophrenia
+SO LANGUAGE LATERALIZATION AND PSYCHOSIS
+AB The molecular, developmental, and evolutionary bases of human brain asymmetry are almost completely unknown. Genetic linkage and association mapping have pin-pointed a gene called LRRTM1 (leucine-rich repeat transmembrane neuronal 1) that may contribute to variability in human handedness. Here I describe how LRRTM1's involvement in handedness was discovered, and also the latest knowledge of its functions in brain development and disease. The association of LRRTM1 with handedness was derived entirely from the paternally inherited gene, and follow-up analysis of gene expression confirmed that LRRTM1 is one of a small number of genes that are imprinted in the human genome, for which the maternally inherited copy is suppressed. The same variation at LRRTM1 that was associated paternally with mixed-/left-handedness was also over-transmitted paternally to schizophrenic patients in a large family study.
+   LRRTM1 is expressed in specific regions of the developing and adult forebrain by post-mitotic neurons, and the protein may be involved in axonal trafficking. Thus LRRTM1 has a probable role in neurodevelopment, and its association with handedness suggests that one of its functions may be in establishing or consolidating human brain asymmetry.
+   LRRTM1 is the first gene for which allelic variation has been associated with human handedness. The genetic data also suggest indirectly that the epigenetic regulation of this gene may yet prove more important than DNA sequence variation for influencing brain development and disease.
+   Intriguingly, the parent-of-origin activity of LRRTM1 suggests that men and women have had conflicting interests in relation to the outcome of lateralized brain development in their offspring.
+BN 978-0-521-88284-2
+PY 2009
+BP 181
+EP 196
+DI 10.1017/CBO9780511576744.014
+D2 10.1017/CBO9780511576744
+UT WOS:000319561400014
+ER
+
+PT B
+AU Ghosh, S
+   Collier, A
+AF Ghosh, Sujoy
+   Collier, Andrew
+BE Kuehn, FS
+   Lozada, MP
+TI Amiodarone and Thyroid Dysfunction
+SO THYROID HORMONES: FUNCTIONS, RELATED DISEASES AND USES
+SE Endocrinology Research and Clinical Developments
+AB Amiodarone is a benzofuranic derivative, iodine-rich drug widely used for treatment of cardiac tachyarrhythmias. It often leads to transient changes in thyroid function tests, either due to the high iodine content of the drug or due to the direct toxic effect of the drug. The prevalence of amiodarone induced thyroid dysfunction depends on dietary iodine intake, age and sex of the patient and also presence of underlying thyroid disorder. Thyroid dysfunction occurs in about 15% of patients treated with amiodarone (Amiodarone induced hypothyroidism (AIH) or Amiodarone induced thyrotoxicosis (AIT)).
+   AIH is commoner in iodine sufficient areas and in patients with a background of Hashimoto's thyroiditis and is related to failure to escape from the acute Wolff Chaikoff effect. It may develop as early as 2 weeks or as late as 3 years following initiation of amiodarone therapy. Treatment of AIH consists of levothyroxine replacement, while continuing amiodarone therapy.
+   AIT is more complex and there are two varieties namely AIT type I and AIT type II. AIT type I is commoner in iodine deficient areas and typically occurs with underlying thyroid disease (due to Jod Basedow phenomenon). There is some benefit in stopping amiodarone in such a scenario and treating with thionamides with or without potassium perchlorate. AIT type II on the other hand is commoner in iodine sufficient areas and occurs due to the direct toxic effect of amiodarone on thyroid follicular cells. Withdrawal of amiodarone with or without glucorticoids is useful. Mixed forms are best treated with a combination of thionamides, potassium perchlorate and glucocorticoid. Thyroidectomy is contemplated in resistant cases. Radio-iodine is usually of little benefit due to low thyroidal radioiodine uptake.
+   Thyroid function tests should be performed at baseline prior to initiation of amiodarone therapy. Clinicians should also note presence of any goiter and document any history of autoimmune disorders. Thereafter thyroid function tests need to be repeated at 3-6 month interval initially and thereafter annually for at least a year following withdrawal of therapy. This is of utmost importance to detect amiodarone induced thyroid problems.
+   A significant proportion of patients on amiodarone are also on Warfarin and it is important to realize that amiodarone as well as thyroid dysfunction alters the pharmacokinetics of warfarin. Therefore adjustments of warfarin dosage have to be made accordingly.
+   A newer drug, namely dronedarone is currently under review. As dronedarone does not contain iodine it is hoped that it will have the same benefits but not the ill effects on thyroid function.
+BN 978-1-60741-080-5
+PY 2009
+BP 165
+EP 186
+UT WOS:000271108900010
+ER
+
+PT S
+AU Wang, Y
+   Ren, X
+   Otsuka, K
+AF Wang, Y.
+   Ren, X.
+   Otsuka, K.
+BE Chernenko, VA
+TI Strain Glass: Glassy Martensite
+SO ADVANCES IN SHAPE MEMORY MATERIALS: MAGNETIC SHAPE MEMORY ALLOYS
+SE Materials Science Forum
+AB "Glass", a frozen disordered-state, has been found in areas as diverse as amorphous solids, magnetic alloys, ferroelectrics, superconductors, and even in models of biological evolutions. In the present review we introduce a new class of glass-the "strain-glass", which was discovered very recently. Strain glass is derived from a martensitic system, where the local-strain is frozen in disordered configuration. The first example of strain glass was found in the well-studied Ni-rich Ti50-xNi50+x martensitic system in its "non-transforming" composition regime (x>1.5). Contrasting to the familiar martensitic transition, the strain glass transition is not accompanied by a change in the average structure, or a thermal peak in the DSC measurement. It involves a dynamic freezing process with broken ergodicity, during which nano-sized martensite domains are frozen. More interestingly, the seemingly "non-martensitic" strain glass exhibits unexpected properties: shape memory effect and superelasticity, like a normal martensitic alloy. Strain glass bears a striking similarity with other two classes of glasses: cluster-spin glass and ferroelectric relaxor. These ferroic-transition-derived glasses can be considered as a more general class of glass: ferroic glass. The finding of strain glass may provide new opportunities for martensite research from both fundamental side and application side.
+RI Ren, Xiaobing/AAE-8533-2020; Ren, Xiaobing/B-6072-2009; Wang,
+   Yu/C-1600-2010
+OI Ren, Xiaobing/0000-0002-4973-2486; Ren, Xiaobing/0000-0002-4973-2486;
+   Wang, Yu/0000-0003-2389-0934
+SN 0255-5476
+PY 2008
+VL 583
+BP 67
+EP 84
+DI 10.4028/www.scientific.net/MSF.583.67
+UT WOS:000268275800004
+ER
+
+PT S
+AU Chib, S
+   Jacobi, L
+AF Chib, Siddhartha
+   Jacobi, Liana
+BE Chib, S
+   Griffiths, W
+   Koop, G
+   Terrell, D
+TI CAUSAL EFFECTS FROM PANEL DATA IN RANDOMIZED EXPERIMENTS WITH PARTIAL
+   COMPLIANCE
+SO BAYESIAN ECONOMETRICS
+SE Advances in Econometrics
+AB We present Bayesian models for finding the longitudinal causal effects of a randomized two-arm training program when compliance with the randomized assignment is less than perfect in the training arm (but perfect in the non-training arm) for reasons that are potentially correlated with the outcomes. We deal with the latter confounding problem under the principal stratification framework of Sommer and Zeger (1991) and Frangakis and Rubin (1999), and others. Building on the Bayesian contributions of Imbens and Rubin (1997), Hirano et al. (2000), Yau and Little (2001) and in particular Chib (2007) and Club and Jacobi (2007, 2008), we construct rich models of the potential outcome sequences (with and without random effects), show how informative priors can be reasonably formulated, and present tuned computational approaches for summarizing the posterior distribution. We also discuss the computation of the marginal likelihood for comparing various versions of our models. We find the causal effects of the observed intake from the predictive distribution of each potential outcome for compliers. These are calculated from the output of our estimation procedures. We illustrate the techniques and ideas with data from the 1994 JOBS H trial that was set up to test the efficacy of a job training program on subsequent mental health outcomes.
+RI Jacobi, Liana/A-9285-2016
+OI Jacobi, Liana/0000-0001-7210-0500
+SN 0731-9053
+BN 978-1-84855-308-8
+PY 2008
+VL 23
+BP 183
+EP 215
+DI 10.1016/S0731-9053(08)23006-9
+UT WOS:000270678200007
+ER
+
+PT B
+AU Cheng, YC
+AF Cheng, Yin Cheong
+BA Cheng, YC
+BF Cheng, YC
+TI THREE WAVES OF EDUCATION REFORM: INTERNAL, INTERFACE, AND FUTURE
+SO NEW PARADIGM FOR RE-ENGINEERING EDUCATION: GLOBALIZATION, LOCALIZATION
+   AND INDIVIDUALIZATION
+SE Education in the Asia Pacific Region-Issues Concerns and Prospects
+AB The world-wide education reforms have been experiencing three waves in the past decades (Cheng, 2001a). Assuming the goals and objectives of education were clear and consensus to all, the first wave of education reforms and initiatives introduced since the 1970s focused mainly on internal effectiveness, with efforts made to improve internal performance of education institutions generally and the methods and processes of teaching and learning particularly. Many of the initiatives introduced and changes made were government-directed and top-down, with the aim to rationalize institutional arrangements and improve education practices for enhancing their effectiveness in achieving the goals and objectives planned at either the site level or the system level. Improvement of teacher and student performance up to identified standards had obviously been a popular and important target for educational reform of this first wave orientation.
+   In response to the concerns of the accountability to the public and stakeholders' expectation in the 1990s, the second wave of education reform emphasized interface effectiveness typically defined in terms of education quality, stakeholders' satisfaction, and market competitiveness, with most policy efforts directed at ensuring quality and accountability to the internal and external stakeholders (see, e.g., Coulson, 1999; Evans, 1999; Goertz & Duffy, 2001; Headington, 2000; Heller, 2001; Mahony & Hextall, 2000). Quality assurance, school monitoring and review, parental choice, student coupon, parental and community involvement in governance, school charter, and performance-based funding were some typical examples of the measures taken to pursue and enhance effectiveness at the interface between the education institutions and the community (Cheng & Townsend, 2000). How to improve the existing structures, organizations, and practices in education at different levels to meet stakeholders' needs and expectations was a major concern in the second wave of reforms.
+   Approaching the newcentury, many stakeholders have expressed concerns about the effects of many reform initiatives of the first and second waves, questioning if the initiatives are sufficient for revitalizing schooling and pedagogy so as to ensure that the younger generation can meet the challenges and needs of rapid transformations in an era of globalization and information technology. Particularly when the knowledge-driven economy and information technology are, due to objective reasons, being strongly emphasized in the new millennium, stakeholders in education urge for a paradigm shift in learning and teaching and demand reforming the aims, content, practice, and management of education at different levels to ensure their relevance to the future (see e. g., Burbules & Torres, 2000; Cheng, 2000a & 2000c; Daun, 2001; Stromquist & Monkman, 2000). The emerging third wave of education reform strongly emphasizes future effectiveness, defined in terms of the relevance to the new education functions in the new century as well as the relevance to the new paradigm of education concerning contextualized multiple intelligences, globalization, localization and individualization (see Chapter 1). The pursuit of new visions and aims at different levels of education, lifelong learning, global networking, international outlook, and the use of information technologies are just some evidences of the emerging third wave (Cheng, 2001a).
+   The three waves of education reforms above, when considered together, are themselves a general typology for capturing and understanding the key paradigms and characteristics of various education reforms in the international context in these years. Different countries or areas may have different historical and contextual constraints, and therefore their progress and characteristics of education reforms may be different and move towards different waves. For example, some countries may be still struggling for enhancing internal effectiveness: that is, they are at the first wave with focus mainly on the improvement of internal process. Some countries may move towards the second wave or in a mix of the first and second waves, pursuing both internal and interface effectiveness. In addition to the internal improvement of school process, they implement different measures and initiatives to ensure education quality and stakeholders' satisfaction. Responding to the challenges of globalization and the impacts of information technology, some countries may have already started the third wave of education reform to pursue for achieving future effectiveness with an emphasis on the relevance of education to the new functions of education institutions and the new paradigm of learning in the new millennium.
+   This typology of the three waves of education reform in essence serves as a framework for clarifying changes in the paradigm and theory of education effectiveness and education quality, and for understanding changes in the formulation and employment of different strategies and approaches to education quality assurance. This chapter aims to provide such a framework for education reform by reviewing the characteristics and paradigms of effectiveness assurance (the most common name as quality assurance) in the first and second waves and then to explain why the coming initiatives on effectiveness assurance should be moving towards the third wave which emphasizes strongly on future effectiveness in terms of ensuring the relevance to new education functions in the new century as well as the relevance to the new paradigm of education. In pursuit of not only internal and interface effectiveness but also future effectiveness in the new millennium, this chapter proposes a new theory for effectiveness in education.
+BN 978-1-4020-3620-0
+PY 2005
+VL 6
+BP 45
+EP 71
+D2 10.1007/1-4020-3620-5
+UT WOS:000270303600005
+ER
+
+EF

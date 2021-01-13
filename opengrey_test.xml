@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<dublin_core schema="dc">
+  <dcvalue element="contributor" qualifier="author">Kraus, Margit</dcvalue>
+  <dcvalue element="contributor" qualifier="corporate">Zentrum fuer Europaeische Wirtschaftsforschung GmbH (Germany)</dcvalue>
+  <dcvalue element="country" qualifier="iso">DE</dcvalue>
+  <dcvalue element="country" qualifier="none">Germany</dcvalue>
+  <dcvalue element="date" qualifier="copyright">2000</dcvalue>
+  <dcvalue element="date" qualifier="issued">2000</dcvalue>
+  <dcvalue element="description" qualifier="abstractalt">Die Autorin zeigt, dass die verschiedenen europaeischen Systeme verschiedene Muster der Redistribution erzeugen, die durch die Anwendung eines Mix von Strategien der sozialen Sicherung erklaert werden koennen. Diese Differenzen reflektieren die drei Hauptlinien in der europaeischen Tradition der sozialen Sicherung: die Armenrechtstradition, die Tradition der sozialen Versicherung und die Tradition des Wohlfahrtsstaats. Nachdem die Autorin diese verschiedenen Systeme in einer Typologie vereinheitlicht und damit auch vergleichbar gemacht hat, werden Indikatoren fuer die verschiedenen Strategien gesucht bzw. entwickelt. Mit diesem Instrumentarium werden dann die soziooekonomischen Daten der sozialen Transfersysteme der EU Daten empirisch naeher hinsichtlich der redistributiven Effekte untersucht. (ICAUebers)</dcvalue>
+  <dcvalue element="description" qualifier="abstract">'The present paper examines the linkage between social security strategies and redistributive effects in European social transfer systems. It is argued that the various European systems produce different patterns of redistribution that may be explained by the adoption of different mixes of social security strategies. These, in turn, reflect the enduring influence of the three major European social security traditions (the poor law tradition, the social insurance tradition, and the welfare state tradition). In support of this argument, several ideal-typical strategies of social security are identified, traced back to their traditional roots and discussed from the viewpoint of economic, sociological and political arguments. Subsequently, a classification of European social transfer systems is introduced, reflecting the mixture of the social security strategies employed. For this purpose, a set of indicators depicting different aspects of social security strategies is invoked. Using these indicators as input variables, various cluster analyses are carried out. The results indicate that European social transfer systems may be classified into four broad regimes to which most of the systems may be assigned fairly clearly. Finally, the linkage between the class assignment of the European social transfer systems and the redistributive patterns they produce is investigated. To assess the overall redistributive effects, three measures for distributive efficiency based on the Gini Coefficient, the quintile relation and the percentage of households below the low income threshold of 60% of median equivalized income are calculated. We find that the results vary greatly not only between systems but also between different measures calculated for a given system, indicating that different systems may affect the various income groups differently. Consequently, the redistributive impacts across income quintiles are investigated. We find that the redistributive effects for the various countries show characteristic profiles that reflect the class assignments identified in our cluster analyses. The patterns are strikingly similar for countries belonging to the same cluster but differ markedly between groups. We conclude that the redistributive effects clearly reflect the cluster assignment of the social transfer systems, indicating that the redistributive pattern is heavily influenced by the mixture of social security strategies employed.' (author's abstract)</dcvalue>
+  <dcvalue element="description" qualifier="none">German title: Strategien der Sozialen Sicherung und Umverteilung in europaeischen Sozialtransfersystemen</dcvalue>
+  <dcvalue element="description" qualifier="provenance">SIGLE</dcvalue>
+  <dcvalue element="description" qualifier="availability">Available from ftp://ftp.zew.de/pub/zew-docs/dp/dp0040.pdf</dcvalue>
+  <dcvalue element="format" qualifier="extent">25, 9 p.</dcvalue>
+  <dcvalue element="identifier" qualifier="other">DE_ 2002:21189</dcvalue>
+  <dcvalue element="identifier" qualifier="other">DE</dcvalue>
+  <dcvalue element="identifier" qualifier="uri">http://hdl.handle.net/10068/86620</dcvalue>
+  <dcvalue element="language" qualifier="none">english</dcvalue>
+  <dcvalue element="language" qualifier="iso">en</dcvalue>
+  <dcvalue element="partner" qualifier="documentprovider">FIZ - Fachinformationszzentrum Karlsruhe</dcvalue>
+  <dcvalue element="partner" qualifier="documentproviderid">fiz</dcvalue>
+  <dcvalue element="partner" qualifier="documentprovider">TIB - Technische Informationsbibliothek</dcvalue>
+  <dcvalue element="partner" qualifier="documentproviderid">tib</dcvalue>
+<dcvalue element="relation" qualifier="uri">ftp://ftp.zew.de/pub/zew-docs/dp/dp0040.pdf</dcvalue>
+  <dcvalue element="subject" qualifier="classification">05R - Sociology, social studies, welfare studies, social services</dcvalue>
+  <dcvalue element="subject" qualifier="classification">05D - Economics, economic theory</dcvalue>
+  <dcvalue element="subject" qualifier="classification">05R - Sociology, social studies, welfare studies, social services</dcvalue>
+  <dcvalue element="subject" qualifier="none">EU</dcvalue>
+  <dcvalue element="subject" qualifier="none">SOCIAL POLICY</dcvalue>
+  <dcvalue element="subject" qualifier="none">CONSTRUCTION OF INDICATORS</dcvalue>
+  <dcvalue element="subject" qualifier="none">SOCIAL INEQUALITY</dcvalue>
+  <dcvalue element="subject" qualifier="none">POVERTY</dcvalue>
+  <dcvalue element="subject" qualifier="none">WELFARE STATE</dcvalue>
+  <dcvalue element="subject" qualifier="none">SOCIAL SECURITY</dcvalue>
+  <dcvalue element="subject" qualifier="none">STRATEGY</dcvalue>
+  <dcvalue element="subject" qualifier="none">REDISTRIBUTION OF INCOME</dcvalue>
+  <dcvalue element="subject" qualifier="none">TRANSFER</dcvalue>
+  <dcvalue element="subject" qualifier="none">TYPOLOGY</dcvalue>
+  <dcvalue element="subject" qualifier="none">SOCIAL INSURANCE</dcvalue>
+  <dcvalue element="title" qualifier="none">Social security strategies and redistributive effects in European social transfer systems</dcvalue>
+  <dcvalue element="type" qualifier="none">I - Miscellaneous</dcvalue>
+</dublin_core>
